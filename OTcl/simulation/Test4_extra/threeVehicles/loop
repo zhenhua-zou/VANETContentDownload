@@ -1,0 +1,14 @@
+#!/bin/bash
+
+y=1
+while [ $y -le 6 ]
+do
+  x=1
+  while [ $x -le 10 ]
+  do
+    echo "seven vehicles $y packets - $x times"
+    ns 7_$y.tcl > log$y$x 2>&1
+    x=$(($x+1))
+  done
+  y=$(($y+1))
+done

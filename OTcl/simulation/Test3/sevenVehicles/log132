@@ -1,0 +1,1279 @@
+INITIALIZE THE LIST xListHead
+Loading mobility pattern...
+Starting Simulation...
+num_nodes is set 8
+group manager starts
+SORTING LISTS ...DONE!
+6 sendRequest 48
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+TX ADVER 9 6 90.7353
+TX ADVER 9 6 91.0163
+TX ADVER 9 6 91.2208
+TX ADVER 9 6 91.7988
+TX ADVER 9 6 92.5838
+TX ADVER 9 6 92.9098
+TX ADVER 9 6 94.0128
+TX ADVER 9 6 94.2368
+TX ADVER 9 6 95.5033
+Rx ADVER 9 5 6 95.5245
+TX CTS 9 5 6 95.5945
+TX ADVER 21 4 100.619
+TX ADVER 21 4 101.2
+TX ADVER 21 4 101.631
+TX ADVER 21 4 101.932
+TX ADVER 21 4 102.227
+TX ADVER 21 4 102.548
+TX ADVER 21 4 102.778
+TX ADVER 21 4 103.412
+TX ADVER 21 4 103.869
+TX ADVER 21 4 104.254
+No.6 Transfer End 104.431
+TX ADVER 9 6 104.446
+Rx ADVER 9 4 6 104.456
+TX CTS 17 4 6 104.496
+TX ADVER 9 5 104.551
+TX ADVER 9 5 104.979
+TX ADVER 9 5 105.378
+TX ADVER 21 3 105.636
+Rx ADVER 21 5 3 105.639
+TX CTS 13 5 3 105.679
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+TX ADVER 13 2 110.654
+TX ADVER 13 2 111.048
+TX ADVER 13 2 111.362
+TX ADVER 13 2 111.817
+TX ADVER 13 2 112.654
+TX ADVER 13 2 112.964
+TX ADVER 13 2 113.199
+TX ADVER 13 2 113.597
+TX ADVER 13 2 114.062
+TX ADVER 13 2 114.273
+TX ADVER 13 2 114.526
+TX ADVER 13 2 115.551
+Rx ADVER 13 1 2 115.553
+TX CTS 13 1 2 115.623
+TX ADVER 21 0 120.62
+TX ADVER 21 0 121.751
+TX ADVER 21 0 122.262
+TX ADVER 21 0 122.464
+No.6 Transfer End 122.923
+TX ADVER 9 4 122.935
+Rx ADVER 9 6 4 122.94
+TX CTS 13 6 4 122.98
+TX ADVER 21 0 122.999
+TX ADVER 21 0 123.42
+TX ADVER 21 0 123.675
+TX ADVER 21 0 124.617
+TX ADVER 21 0 125.147
+TX ADVER 21 0 125.386
+TX ADVER 21 0 125.848
+No.3 Transfer End 126.184
+TX ADVER 29 3 126.247
+Rx ADVER 29 0 3 126.249
+TX CTS 37 0 3 126.259
+No.2 Transfer End 129.277
+TX ADVER 21 1 129.301
+Rx ADVER 21 2 1 129.303
+TX CTS 13 2 1 129.373
+No.1 Transfer End 136.112
+TX ADVER 29 2 136.132
+TX ADVER 29 1 136.254
+TX ADVER 29 1 136.463
+TX ADVER 29 2 136.502
+TX ADVER 29 2 136.798
+TX ADVER 29 1 136.89
+TX ADVER 29 2 137.055
+TX ADVER 29 1 137.22
+TX ADVER 29 2 137.264
+TX ADVER 29 2 137.505
+TX ADVER 29 1 137.732
+TX ADVER 29 1 138.116
+TX ADVER 29 2 138.309
+TX ADVER 29 1 138.452
+TX ADVER 29 2 138.602
+TX ADVER 29 1 138.673
+TX ADVER 29 2 138.889
+TX ADVER 37 1 138.921
+TX ADVER 37 2 139.099
+TX ADVER 37 1 139.149
+TX ADVER 37 2 139.576
+TX ADVER 37 1 139.591
+TX ADVER 37 2 139.847
+TX ADVER 37 1 139.981
+TX ADVER 37 1 140.181
+TX ADVER 37 2 140.205
+TX ADVER 37 1 140.384
+TX ADVER 37 2 140.599
+TX ADVER 37 1 140.708
+TX ADVER 37 2 140.946
+TX ADVER 37 1 140.969
+TX ADVER 37 1 141.194
+TX ADVER 37 2 141.198
+TX ADVER 37 2 141.406
+TX ADVER 37 1 141.547
+TX ADVER 37 2 141.643
+TX ADVER 37 1 141.865
+TX ADVER 37 1 142.079
+TX ADVER 37 2 142.107
+TX ADVER 37 2 142.361
+No.4 Transfer End 142.444
+TX ADVER 17 4 142.449
+Rx ADVER 17 6 4 142.478
+Rx ADVER 17 1 4 142.478
+TX CTS 33 1 4 142.488
+TX CTS 13 6 4 142.518
+TX ADVER 41 2 142.838
+TX ADVER 41 2 143.106
+TX ADVER 41 2 143.357
+TX ADVER 41 2 143.654
+TX ADVER 41 2 144.194
+TX ADVER 33 2 144.638
+TX ADVER 33 2 145.205
+TX ADVER 33 2 145.422
+TX ADVER 33 2 145.652
+TX ADVER 33 2 145.887
+TX ADVER 33 2 146.091
+TX ADVER 25 2 146.428
+TX ADVER 25 2 146.628
+TX ADVER 25 2 147.069
+TX ADVER 25 2 147.371
+TX ADVER 25 2 147.721
+TX ADVER 25 2 148.141
+TX ADVER 25 2 148.352
+TX ADVER 25 2 148.585
+TX ADVER 25 2 148.785
+TX ADVER 25 2 149.124
+TX ADVER 25 2 149.548
+TX ADVER 25 2 149.796
+TX ADVER 25 2 150.075
+TX ADVER 25 2 150.377
+TX ADVER 25 2 150.647
+TX ADVER 25 2 150.886
+TX ADVER 25 2 151.203
+TX ADVER 25 2 151.498
+TX ADVER 25 2 151.737
+TX ADVER 25 2 152.277
+TX ADVER 25 2 152.585
+TX ADVER 25 2 152.909
+TX ADVER 25 2 153.116
+TX ADVER 25 2 153.475
+TX ADVER 25 2 153.712
+No.3 Transfer End 153.753
+TX ADVER 9 5 153.765
+Rx ADVER 9 3 5 153.766
+TX CTS 21 3 5 153.806
+TX ADVER 29 0 153.942
+Rx ADVER 29 2 0 153.945
+TX CTS 13 2 0 153.985
+No.0 Transfer End 159.613
+TX ADVER 17 2 159.632
+Rx ADVER 17 0 2 159.633
+TX CTS 25 0 2 159.673
+No.2 Transfer End 164.529
+TX ADVER 17 2 164.605
+Rx ADVER 17 0 2 164.608
+TX CTS 13 0 2 164.648
+No.2 Transfer End 165.571
+TX ADVER 17 2 165.609
+Rx ADVER 17 0 2 165.612
+TX CTS 13 0 2 165.652
+No.2 Transfer End 166.054
+TX ADVER 17 2 166.071
+Rx ADVER 17 0 2 166.072
+TX CTS 13 0 2 166.112
+No.2 Transfer End 166.438
+TX ADVER 17 2 166.455
+Rx ADVER 17 0 2 166.457
+TX CTS 13 0 2 166.497
+No.2 Transfer End 166.818
+TX ADVER 17 0 166.825
+TX ADVER 17 2 166.873
+TX ADVER 17 0 167.115
+TX ADVER 17 2 167.378
+Rx ADVER 17 0 2 167.38
+TX CTS 13 0 2 167.42
+No.2 Transfer End 168.065
+TX ADVER 17 0 168.147
+TX ADVER 17 2 168.188
+TX ADVER 17 2 168.519
+Rx ADVER 17 0 2 168.525
+TX CTS 13 0 2 168.565
+No.2 Transfer End 169.22
+TX ADVER 17 0 169.312
+TX ADVER 17 2 169.492
+TX ADVER 17 0 169.701
+TX ADVER 17 2 169.929
+Rx ADVER 17 0 2 169.931
+TX CTS 13 0 2 169.971
+No.2 Transfer End 170.755
+TX ADVER 17 2 170.78
+Rx ADVER 17 0 2 170.782
+TX CTS 13 0 2 170.822
+No.2 Transfer End 171.174
+TX ADVER 17 0 171.258
+TX ADVER 17 2 171.326
+TX ADVER 17 0 171.674
+TX ADVER 17 2 171.884
+Rx ADVER 17 0 2 171.887
+TX CTS 13 0 2 171.927
+No.2 Transfer End 172.708
+TX ADVER 17 2 172.709
+Rx ADVER 17 0 2 172.712
+TX CTS 13 0 2 172.752
+No.2 Transfer End 173.149
+TX ADVER 17 2 173.166
+Rx ADVER 17 0 2 173.167
+TX CTS 13 0 2 173.207
+No.2 Transfer End 173.554
+TX ADVER 9 2 173.587
+Rx ADVER 9 0 2 173.591
+TX CTS 13 0 2 173.631
+No.5 Transfer End 173.634
+TX ADVER 17 3 173.699
+Rx ADVER 17 5 3 173.703
+TX CTS 13 5 3 173.743
+No.2 Transfer End 173.905
+TX ADVER 9 0 173.931
+TX ADVER 9 2 173.965
+TX ADVER 9 0 174.131
+TX ADVER 9 2 174.294
+TX ADVER 9 0 174.406
+TX ADVER 9 2 174.633
+TX ADVER 9 0 174.835
+TX ADVER 9 2 174.947
+TX ADVER 9 0 175.12
+TX ADVER 9 2 175.189
+TX ADVER 9 0 175.365
+TX ADVER 9 2 175.517
+TX ADVER 9 0 175.722
+TX ADVER 9 2 175.821
+TX ADVER 9 0 175.944
+TX ADVER 9 2 176.021
+TX ADVER 9 0 176.191
+TX ADVER 9 2 176.335
+TX ADVER 9 0 176.394
+TX ADVER 9 0 176.602
+TX ADVER 9 2 176.908
+TX ADVER 9 0 176.933
+TX ADVER 9 2 177.205
+TX ADVER 9 0 177.277
+TX ADVER 9 2 177.482
+TX ADVER 9 0 177.602
+TX ADVER 9 2 177.821
+TX ADVER 9 0 177.893
+TX ADVER 9 2 178.048
+TX ADVER 9 0 178.101
+TX ADVER 9 2 178.318
+TX ADVER 9 0 178.318
+TX ADVER 9 0 178.607
+TX ADVER 9 2 178.626
+TX ADVER 9 0 178.815
+TX ADVER 9 2 178.826
+TX ADVER 9 2 179.027
+TX ADVER 9 0 179.059
+TX ADVER 9 2 179.258
+TX ADVER 9 0 179.381
+TX ADVER 9 0 179.6
+TX ADVER 9 2 179.727
+TX ADVER 9 2 179.932
+TX ADVER 9 2 180.144
+TX ADVER 9 2 180.557
+TX ADVER 9 0 180.651
+TX ADVER 9 2 180.88
+TX ADVER 9 2 181.19
+TX ADVER 9 2 181.446
+No.4 Transfer End 181.525
+TX ADVER 17 4 181.551
+TX ADVER 9 0 181.577
+TX ADVER 17 6 181.605
+TX ADVER 9 1 181.643
+TX ADVER 9 2 181.724
+TX ADVER 17 4 181.799
+TX ADVER 17 6 181.824
+No.3 Transfer End 181.859
+TX ADVER 17 3 181.871
+TX ADVER 17 5 181.898
+TX ADVER 9 1 182.048
+Rx ADVER 9 4 1 182.049
+TX CTS 13 4 1 182.062
+TX ADVER 17 6 182.062
+TX ADVER 17 3 182.122
+TX ADVER 17 5 182.218
+TX ADVER 9 2 182.251
+TX ADVER 9 0 182.298
+TX ADVER 9 0 182.508
+Rx ADVER 9 3 0 182.519
+TX CTS 13 3 0 182.553
+TX ADVER 9 2 182.569
+Rx ADVER 9 5 2 182.571
+TX CTS 13 5 2 182.581
+TX ADVER 17 6 182.612
+TX ADVER 17 6 183.269
+TX ADVER 17 6 183.946
+TX ADVER 17 6 184.892
+TX ADVER 17 6 185.392
+TX ADVER 17 6 185.74
+TX ADVER 17 6 186.9
+No.2 Transfer End 187.724
+TX ADVER 9 5 187.811
+Rx ADVER 9 6 5 187.815
+TX ADVER 9 2 187.816
+TX CTS 13 6 5 187.885
+TX ADVER 9 2 188.091
+TX ADVER 9 2 188.617
+TX ADVER 9 2 188.909
+TX ADVER 9 2 189.109
+TX ADVER 9 2 189.413
+TX ADVER 9 2 189.916
+TX ADVER 9 2 190.235
+TX ADVER 9 2 190.493
+TX ADVER 9 2 190.991
+TX ADVER 9 2 191.376
+TX ADVER 9 2 191.63
+TX ADVER 9 2 191.937
+TX ADVER 9 2 192.291
+TX ADVER 9 2 192.497
+TX ADVER 9 2 192.901
+No.5 Transfer End 193.111
+TX ADVER 9 5 193.153
+TX ADVER 9 6 193.181
+TX ADVER 9 2 193.216
+TX ADVER 9 6 193.393
+TX ADVER 9 2 193.462
+TX ADVER 9 5 193.614
+TX ADVER 9 6 193.805
+TX ADVER 9 5 193.913
+TX ADVER 9 6 194.149
+TX ADVER 9 2 194.294
+TX ADVER 9 5 194.419
+TX ADVER 9 2 194.755
+TX ADVER 9 6 194.956
+TX ADVER 9 2 194.961
+TX ADVER 9 5 195.271
+TX ADVER 9 2 195.291
+TX ADVER 9 6 195.291
+TX ADVER 9 2 195.505
+No.1 Transfer End 195.544
+TX ADVER 9 1 195.595
+TX ADVER 9 4 195.653
+TX ADVER 9 2 195.742
+TX ADVER 9 5 195.777
+TX ADVER 9 4 195.979
+TX ADVER 9 2 196.077
+TX ADVER 9 6 196.174
+TX ADVER 9 1 196.264
+TX ADVER 9 5 196.271
+TX ADVER 9 6 196.554
+TX ADVER 9 4 196.62
+TX ADVER 9 1 196.641
+TX ADVER 9 5 196.771
+TX ADVER 9 1 197.001
+TX ADVER 9 4 197.228
+TX ADVER 9 1 197.255
+TX ADVER 9 2 197.273
+TX ADVER 9 6 197.375
+TX ADVER 9 1 197.477
+TX ADVER 9 2 197.483
+TX ADVER 9 1 197.686
+TX ADVER 9 5 197.768
+TX ADVER 9 2 197.88
+TX ADVER 9 1 197.964
+TX ADVER 9 4 197.976
+TX ADVER 9 2 198.08
+No.0 Transfer End 198.089
+TX ADVER 9 3 198.097
+TX ADVER 9 0 198.177
+TX ADVER 9 5 198.238
+TX ADVER 9 3 198.36
+TX ADVER 9 3 198.56
+TX ADVER 9 6 198.58
+TX ADVER 9 0 198.635
+TX ADVER 9 5 198.817
+TX ADVER 9 1 198.88
+TX ADVER 9 4 198.923
+TX ADVER 9 3 199.072
+TX ADVER 9 5 199.143
+TX ADVER 9 0 199.191
+TX ADVER 9 4 199.228
+TX ADVER 9 2 199.585
+TX ADVER 9 6 199.638
+TX ADVER 9 5 199.792
+TX ADVER 9 0 199.823
+TX ADVER 9 3 199.955
+TX ADVER 9 6 200.072
+TX ADVER 9 4 200.136
+TX ADVER 9 5 200.433
+TX ADVER 9 1 200.49
+TX ADVER 9 4 200.646
+TX ADVER 9 0 200.75
+TX ADVER 9 0 201.013
+TX ADVER 9 3 201.037
+TX ADVER 9 4 201.206
+TX ADVER 9 6 201.5
+TX ADVER 9 5 201.533
+TX ADVER 9 1 201.597
+TX ADVER 9 0 201.801
+TX ADVER 9 3 202.119
+TX ADVER 9 4 202.413
+TX ADVER 9 6 202.918
+TX ADVER 9 0 202.961
+TX ADVER 9 3 202.979
+TX ADVER 9 5 203.365
+TX ADVER 9 3 203.395
+TX ADVER 9 1 203.435
+TX ADVER 9 4 203.747
+TX ADVER 9 6 203.748
+TX ADVER 9 5 203.769
+TX ADVER 9 1 203.83
+TX ADVER 9 0 203.917
+TX ADVER 9 6 204.044
+TX ADVER 9 2 204.109
+TX ADVER 9 0 204.282
+TX ADVER 9 2 204.405
+TX ADVER 9 3 204.555
+TX ADVER 9 3 204.771
+TX ADVER 9 1 204.87
+TX ADVER 9 4 205.253
+TX ADVER 9 2 205.694
+TX ADVER 9 3 205.763
+TX ADVER 9 0 205.819
+TX ADVER 9 1 206.105
+TX ADVER 9 6 206.182
+TX ADVER 9 5 206.183
+TX ADVER 9 1 206.425
+TX ADVER 9 6 206.463
+TX ADVER 9 5 206.554
+TX ADVER 9 0 206.829
+TX ADVER 9 1 206.931
+TX ADVER 9 6 207.205
+TX ADVER 9 4 207.322
+TX ADVER 9 3 207.328
+TX ADVER 9 1 207.752
+TX ADVER 9 4 208.017
+TX ADVER 9 2 208.342
+TX ADVER 9 0 208.842
+TX ADVER 9 3 209.187
+TX ADVER 9 6 209.235
+TX ADVER 9 5 209.694
+TX ADVER 9 0 209.819
+TX ADVER 9 4 210.113
+TX ADVER 9 1 210.175
+TX ADVER 9 4 210.415
+TX ADVER 9 5 210.524
+TX ADVER 9 6 210.821
+TX ADVER 9 0 210.829
+TX ADVER 9 6 211.516
+TX ADVER 9 3 211.525
+TX ADVER 9 4 211.641
+TX ADVER 9 1 211.695
+TX ADVER 9 3 211.941
+TX ADVER 9 4 212.582
+TX ADVER 9 1 212.777
+TX ADVER 9 0 213.141
+TX ADVER 9 2 213.372
+TX ADVER 9 5 213.562
+TX ADVER 9 0 214.157
+TX ADVER 9 3 214.181
+TX ADVER 9 6 214.441
+TX ADVER 9 4 214.912
+TX ADVER 9 3 215.056
+TX ADVER 9 1 215.683
+TX ADVER 9 0 215.761
+TX ADVER 9 4 215.837
+TX ADVER 9 6 215.937
+TX ADVER 9 1 216.125
+TX ADVER 9 4 216.466
+TX ADVER 9 5 217.039
+TX ADVER 9 6 217.412
+TX ADVER 9 0 217.415
+TX ADVER 9 3 217.735
+TX ADVER 9 2 217.784
+TX ADVER 9 1 217.909
+TX ADVER 9 5 218.319
+TX ADVER 9 3 218.355
+TX ADVER 9 5 218.557
+TX ADVER 9 6 219.055
+TX ADVER 9 0 219.625
+TX ADVER 9 4 220.081
+TX ADVER 9 2 220.315
+TX ADVER 9 1 220.359
+TX ADVER 9 6 220.794
+TX ADVER 9 3 220.949
+TX ADVER 9 0 221.589
+TX ADVER 9 6 221.624
+TX ADVER 9 5 221.721
+TX ADVER 9 1 221.807
+TX ADVER 9 0 222.284
+TX ADVER 9 5 222.366
+TX ADVER 9 1 222.412
+TX ADVER 9 4 223.377
+TX ADVER 9 6 223.869
+TX ADVER 9 3 223.921
+TX ADVER 9 5 224.12
+TX ADVER 9 0 224.14
+TX ADVER 9 2 224.163
+TX ADVER 9 3 224.225
+TX ADVER 9 3 225.001
+TX ADVER 9 5 225.364
+TX ADVER 9 0 225.564
+TX ADVER 9 0 225.839
+TX ADVER 9 4 226.277
+TX ADVER 9 2 226.586
+TX ADVER 9 1 226.602
+TX ADVER 9 1 227.28
+TX ADVER 9 6 227.309
+TX ADVER 9 4 227.686
+TX ADVER 9 0 227.989
+TX ADVER 9 3 228.276
+TX ADVER 9 6 228.485
+TX ADVER 9 5 228.624
+TX ADVER 9 1 228.965
+TX ADVER 9 0 228.999
+TX ADVER 9 4 229.304
+TX ADVER 9 2 229.426
+TX ADVER 9 3 229.49
+TX ADVER 9 6 229.741
+TX ADVER 9 4 230.26
+TX ADVER 9 0 230.753
+TX ADVER 9 2 230.979
+TX ADVER 9 3 231.026
+TX ADVER 9 6 231.426
+TX ADVER 9 6 231.728
+TX ADVER 9 4 231.895
+TX ADVER 9 1 231.909
+TX ADVER 9 2 232.124
+TX ADVER 9 3 232.444
+TX ADVER 9 5 232.777
+TX ADVER 9 3 233.471
+TX ADVER 9 3 233.761
+TX ADVER 9 6 233.818
+TX ADVER 9 0 234.52
+TX ADVER 9 5 234.897
+TX ADVER 9 3 235.635
+TX ADVER 9 1 235.709
+TX ADVER 9 4 235.74
+TX ADVER 9 6 236.286
+TX ADVER 9 1 236.503
+TX ADVER 9 2 236.904
+TX ADVER 9 0 237.06
+TX ADVER 9 4 238.265
+TX ADVER 9 5 238.463
+TX ADVER 9 0 238.748
+TX ADVER 9 5 238.867
+TX ADVER 9 1 239.151
+TX ADVER 9 5 239.277
+TX ADVER 9 4 239.329
+TX ADVER 9 6 239.65
+TX ADVER 9 3 240.011
+TX ADVER 9 5 240.233
+TX ADVER 9 2 241.79
+TX ADVER 9 6 242.643
+TX ADVER 9 1 243.078
+TX ADVER 9 0 243.316
+TX ADVER 9 0 243.615
+TX ADVER 9 4 243.786
+TX ADVER 9 5 244.262
+TX ADVER 9 1 244.358
+TX ADVER 9 3 244.963
+TX ADVER 9 5 245.716
+TX ADVER 9 1 245.89
+TX ADVER 9 4 246.179
+TX ADVER 9 2 246.377
+TX ADVER 9 0 246.671
+TX ADVER 9 6 247.172
+TX ADVER 9 5 247.379
+TX ADVER 9 6 248.032
+TX ADVER 9 2 248.371
+TX ADVER 9 3 249.447
+TX ADVER 9 1 249.567
+TX ADVER 9 5 249.859
+TX ADVER 9 4 250.317
+TX ADVER 9 4 250.625
+TX ADVER 9 4 250.88
+TX ADVER 9 0 250.966
+TX ADVER 9 3 251.484
+TX ADVER 9 6 252.967
+TX ADVER 9 5 253.072
+TX ADVER 9 4 253.417
+TX ADVER 9 6 253.419
+TX ADVER 9 2 253.436
+TX ADVER 9 0 254.136
+TX ADVER 9 4 254.963
+TX ADVER 9 1 255.383
+TX ADVER 9 3 255.626
+TX ADVER 9 5 255.918
+TX ADVER 9 0 256.389
+TX ADVER 9 4 256.603
+TX ADVER 9 6 256.78
+TX ADVER 9 4 257.479
+TX ADVER 9 2 257.884
+TX ADVER 9 5 257.989
+TX ADVER 9 1 260.383
+TX ADVER 9 6 260.478
+TX ADVER 9 0 260.693
+TX ADVER 9 3 260.71
+TX ADVER 9 4 261.207
+TX ADVER 9 6 261.42
+TX ADVER 9 5 262.347
+TX ADVER 9 5 263.154
+TX ADVER 9 2 264.258
+TX ADVER 9 1 265.503
+TX ADVER 9 3 266.097
+TX ADVER 9 0 266.1
+TX ADVER 9 6 266.243
+TX ADVER 9 0 267.14
+TX ADVER 9 4 267.728
+TX ADVER 9 5 268.943
+TX ADVER 9 2 269.258
+TX ADVER 9 1 269.42
+TX ADVER 9 0 269.738
+TX ADVER 9 6 269.898
+TX ADVER 9 4 270.238
+TX ADVER 9 3 271.211
+TX ADVER 9 2 271.753
+TX ADVER 9 5 272.95
+TX ADVER 9 0 273.214
+TX ADVER 9 4 273.408
+TX ADVER 9 1 273.426
+TX ADVER 9 5 275.526
+TX ADVER 9 3 276.031
+TX ADVER 9 5 276.314
+TX ADVER 9 4 276.575
+TX ADVER 9 6 276.578
+TX ADVER 9 0 276.897
+TX ADVER 9 2 277.413
+TX ADVER 9 4 278.185
+TX ADVER 9 2 278.408
+TX ADVER 9 6 278.836
+TX ADVER 9 3 279.183
+TX ADVER 9 1 279.698
+TX ADVER 9 4 279.825
+TX ADVER 9 1 281.045
+TX ADVER 9 2 281.443
+TX ADVER 9 5 282.289
+TX ADVER 9 5 282.795
+TX ADVER 9 0 282.971
+TX ADVER 9 1 283.798
+TX ADVER 9 3 284.297
+TX ADVER 9 6 284.811
+TX ADVER 9 0 285.736
+TX ADVER 9 2 285.768
+TX ADVER 9 4 286.64
+TX ADVER 9 1 286.818
+TX ADVER 9 0 289.248
+TX ADVER 9 2 289.496
+TX ADVER 9 5 289.781
+TX ADVER 9 6 290.213
+TX ADVER 9 3 290.238
+TX ADVER 9 4 291.265
+TX ADVER 9 6 292.129
+TX ADVER 9 1 293.714
+TX ADVER 9 0 294.172
+TX ADVER 9 3 294.992
+TX ADVER 9 3 295.192
+TX ADVER 9 5 295.864
+TX ADVER 9 2 296.365
+TX ADVER 9 4 296.591
+TX ADVER 9 0 297.612
+TX ADVER 9 4 297.727
+TX ADVER 9 3 298.359
+TX ADVER 9 6 298.609
+TX ADVER 9 1 298.765
+TX ADVER 9 6 301.482
+TX ADVER 9 2 301.611
+TX ADVER 9 0 302.736
+TX ADVER 9 5 302.787
+TX ADVER 9 6 303.992
+TX ADVER 9 5 304.307
+TX ADVER 9 1 304.59
+TX ADVER 9 4 304.605
+TX ADVER 9 3 304.904
+TX ADVER 9 1 305.249
+TX ADVER 9 3 306.328
+TX ADVER 9 0 308.936
+TX ADVER 9 2 309.156
+TX ADVER 9 6 310.072
+TX ADVER 9 5 310.303
+TX ADVER 9 4 311.852
+TX ADVER 9 6 312.068
+TX ADVER 9 1 312.937
+TX ADVER 9 5 313.41
+TX ADVER 9 3 313.437
+TX ADVER 9 0 313.65
+TX ADVER 9 3 314.012
+TX ADVER 9 5 314.915
+TX ADVER 9 2 315.116
+TX ADVER 9 1 317.112
+TX ADVER 9 2 317.787
+TX ADVER 9 3 319.108
+TX ADVER 9 1 319.175
+TX ADVER 9 4 319.229
+TX ADVER 9 5 319.452
+TX ADVER 9 1 320.035
+TX ADVER 9 6 320.185
+TX ADVER 9 0 321.338
+TX ADVER 9 0 322.174
+TX ADVER 9 1 322.839
+TX ADVER 9 0 323.346
+TX ADVER 9 2 323.66
+TX ADVER 9 4 323.797
+TX ADVER 9 4 323.997
+TX ADVER 9 4 325.415
+TX ADVER 9 5 326.492
+TX ADVER 9 2 326.6
+TX ADVER 9 3 326.718
+TX ADVER 9 1 326.972
+TX ADVER 9 6 327.553
+TX ADVER 9 4 329.775
+TX ADVER 9 0 330.063
+TX ADVER 9 3 331.29
+TX ADVER 9 2 332.272
+TX ADVER 9 1 332.566
+TX ADVER 9 3 332.948
+TX ADVER 9 1 334.005
+TX ADVER 9 6 334.863
+TX ADVER 9 3 335.128
+TX ADVER 9 5 335.567
+TX ADVER 9 2 336.372
+TX ADVER 9 3 337.176
+TX ADVER 9 6 337.534
+TX ADVER 9 4 337.985
+TX ADVER 9 6 338.106
+TX ADVER 9 0 338.495
+TX ADVER 9 4 338.825
+TX ADVER 9 5 341.347
+TX ADVER 9 2 341.522
+TX ADVER 9 1 341.765
+TX ADVER 9 6 341.802
+TX ADVER 9 4 342.652
+TX ADVER 9 6 343.25
+TX ADVER 9 4 344.459
+TX ADVER 9 3 344.558
+TX ADVER 9 0 345.621
+TX ADVER 9 6 346.278
+TX ADVER 9 5 347.879
+TX ADVER 9 0 347.996
+TX ADVER 9 4 350.611
+TX ADVER 9 2 350.767
+TX ADVER 9 1 351.024
+TX ADVER 9 3 351.718
+TX ADVER 9 5 351.727
+TX ADVER 9 6 352.418
+TX ADVER 9 2 352.803
+TX ADVER 9 1 352.991
+TX ADVER 9 4 353.053
+TX ADVER 9 6 353.321
+TX ADVER 9 1 354.136
+TX ADVER 9 0 355.364
+TX ADVER 9 5 355.534
+TX ADVER 9 0 355.654
+TX ADVER 9 2 356.419
+TX ADVER 9 2 357.249
+TX ADVER 9 1 357.408
+TX ADVER 9 3 358.113
+TX ADVER 9 2 359.046
+TX ADVER 9 2 359.57
+TX ADVER 9 6 359.743
+TX ADVER 9 3 361.463
+TX ADVER 9 5 361.674
+TX ADVER 9 2 361.741
+TX ADVER 9 0 361.802
+TX ADVER 9 3 361.938
+TX ADVER 9 4 362.361
+TX ADVER 9 1 362.483
+TX ADVER 9 6 362.634
+TX ADVER 9 1 363.376
+TX ADVER 9 1 364.782
+TX ADVER 9 3 366.137
+TX ADVER 9 6 368.294
+TX ADVER 9 3 368.605
+TX ADVER 9 1 368.654
+TX ADVER 9 0 369.535
+TX ADVER 9 4 369.898
+TX ADVER 9 5 369.914
+TX ADVER 9 2 372.153
+TX ADVER 9 5 373.072
+TX ADVER 9 5 373.79
+TX ADVER 9 3 374.181
+TX ADVER 9 0 375.783
+TX ADVER 9 4 376.626
+TX ADVER 9 6 376.801
+TX ADVER 9 5 377.98
+TX ADVER 9 1 378.686
+TX ADVER 9 6 379.269
+TX ADVER 9 3 379.743
+---- VCDServer ---- 
+Server transfered 41371 pkts.
+
+---- Client NO.0 stops ----- 
+0
+41371
+state is TRANSFER_WAIT_PHASE 
+It received 41371 packets.
+
+---- Client NO.1 stops ----- 
+0
+41371
+state is TRANSFER_WAIT_PHASE 
+It received 41371 packets.
+
+---- Client NO.2 stops ----- 
+0
+41371
+state is TRANSFER_WAIT_PHASE 
+It received 41371 packets.
+
+---- Client NO.3 stops ----- 
+0
+41371
+state is TRANSFER_WAIT_PHASE 
+It received 41371 packets.
+
+---- Client NO.4 stops ----- 
+0
+41371
+state is TRANSFER_WAIT_PHASE 
+It received 41371 packets.
+
+---- Client NO.5 stops ----- 
+0
+41371
+state is TRANSFER_WAIT_PHASE 
+It received 41371 packets.
+
+---- Client NO.6 stops ----- 
+0
+41371
+state is TRANSFER_WAIT_PHASE 
+It received 41371 packets.
+
+TX ADVER 9 2 380.678
+NS EXITING...

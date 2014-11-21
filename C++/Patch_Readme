@@ -1,0 +1,9 @@
+In the ns-allinone-2.33 folder, execute the following commands:
+---------------------------------------
+cp -r ns-2.33 ns-2.33-original
+patch -p0 < VCD.patch
+cp VCD.cc ns-2.33/apps
+cp VCD.h ns-2.33/apps
+cp VCDBase.h ns-2.33/apps
+--------------------------------------
+Then install the simulator following the instructions in the manual

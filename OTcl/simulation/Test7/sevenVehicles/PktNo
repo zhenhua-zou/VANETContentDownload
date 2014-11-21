@@ -1,0 +1,116 @@
+#!/usr/bin/python
+
+import sys
+import os
+
+pkt_individual_0_min=99999999
+pkt_individual_0_max=0
+pkt_individual_0_total=0
+pkt_individual_1_min=99999999
+pkt_individual_1_max=0
+pkt_individual_1_total=0
+pkt_individual_2_min=99999999
+pkt_individual_2_max=0
+pkt_individual_2_total=0
+pkt_individual_3_min=99999999
+pkt_individual_3_max=0
+pkt_individual_3_total=0
+pkt_individual_4_min=99999999
+pkt_individual_4_max=0
+pkt_individual_4_total=0
+pkt_individual_5_min=99999999
+pkt_individual_5_max=0
+pkt_individual_5_total=0
+pkt_individual_6_min=99999999
+pkt_individual_6_max=0
+pkt_individual_6_total=0
+pkt_total=0
+
+for i in range(1,31):
+  fname='log%d'%i
+
+  fr=open(fname, 'r')
+  m=0
+
+  for line in fr:
+
+    if line.find('It received')!=-1:
+      j=1
+      for field in line.split(' '):
+        if j==3:
+          if m==0:
+            pkt_individual_0=float(field)
+          if m==1:
+            pkt_individual_1=float(field)
+          if m==2:
+            pkt_individual_2=float(field)
+          if m==3:
+            pkt_individual_3=float(field)
+          if m==4:
+            pkt_individual_4=float(field)
+          if m==5:
+            pkt_individual_5=float(field)
+          if m==6:
+            pkt_individual_6=float(field)
+        j=j+1
+      m=m+1
+
+    if line.find('Server transfered')!=-1:
+      j=1
+      for field in line.split(' '):
+        if j==3:
+          pkt_no=float(field)
+        j=j+1
+   
+  pkt_individual_0_total=pkt_individual_0_total+pkt_individual_0
+  if pkt_individual_0 < pkt_individual_0_min:
+    pkt_individual_0_min = pkt_individual_0
+  if pkt_individual_0 > pkt_individual_0_max:
+    pkt_individual_0_max = pkt_individual_0
+
+  pkt_individual_1_total=pkt_individual_1_total+pkt_individual_1
+  if pkt_individual_1 < pkt_individual_1_min:
+    pkt_individual_1_min = pkt_individual_1
+  if pkt_individual_1 > pkt_individual_1_max:
+    pkt_individual_1_max = pkt_individual_1
+
+  pkt_individual_2_total=pkt_individual_2_total+pkt_individual_2
+  if pkt_individual_2 < pkt_individual_2_min:
+    pkt_individual_2_min = pkt_individual_2
+  if pkt_individual_2 > pkt_individual_2_max:
+    pkt_individual_2_max = pkt_individual_2
+
+  pkt_individual_3_total=pkt_individual_3_total+pkt_individual_3
+  if pkt_individual_3 < pkt_individual_3_min:
+    pkt_individual_3_min = pkt_individual_3
+  if pkt_individual_3 > pkt_individual_3_max:
+    pkt_individual_3_max = pkt_individual_3
+
+  pkt_individual_4_total=pkt_individual_4_total+pkt_individual_4
+  if pkt_individual_4 < pkt_individual_4_min:
+    pkt_individual_4_min = pkt_individual_4
+  if pkt_individual_4 > pkt_individual_4_max:
+    pkt_individual_4_max = pkt_individual_4
+
+  pkt_individual_5_total=pkt_individual_5_total+pkt_individual_5
+  if pkt_individual_5 < pkt_individual_5_min:
+    pkt_individual_5_min = pkt_individual_5
+  if pkt_individual_5 > pkt_individual_5_max:
+    pkt_individual_5_max = pkt_individual_5
+
+  pkt_individual_6_total=pkt_individual_6_total+pkt_individual_6
+  if pkt_individual_6 < pkt_individual_6_min:
+    pkt_individual_6_min = pkt_individual_6
+  if pkt_individual_6 > pkt_individual_6_max:
+    pkt_individual_6_max = pkt_individual_6
+
+  pkt_total=pkt_total+pkt_no
+
+print "%d %f %f %f %f" % (1, pkt_individual_0_total/30,pkt_individual_0_min,pkt_individual_0_max,pkt_total/30)
+print "%d %f %f %f %f" % (2, pkt_individual_1_total/30,pkt_individual_1_min,pkt_individual_1_max,pkt_total/30)
+print "%d %f %f %f %f" % (3, pkt_individual_2_total/30,pkt_individual_2_min,pkt_individual_2_max,pkt_total/30)
+print "%d %f %f %f %f" % (4, pkt_individual_3_total/30,pkt_individual_3_min,pkt_individual_3_max,pkt_total/30)
+print "%d %f %f %f %f" % (5, pkt_individual_4_total/30,pkt_individual_4_min,pkt_individual_4_max,pkt_total/30)
+print "%d %f %f %f %f" % (6, pkt_individual_5_total/30,pkt_individual_5_min,pkt_individual_5_max,pkt_total/30)
+print "%d %f %f %f %f" % (7, pkt_individual_6_total/30,pkt_individual_6_min,pkt_individual_6_max,pkt_total/30)
+

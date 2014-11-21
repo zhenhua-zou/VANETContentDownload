@@ -1,0 +1,39 @@
+$node_(0) set X_ 50
+$node_(0) set Y_ 25
+$node_(0) set Z_ 0
+$ns_ at 0.0   "$node_(0) setdest 975 25 10"
+$ns_ at 92.5  "$node_(0) setdest 975 975 10"
+$ns_ at 187.5 "$node_(0) setdest 25 975 10"
+$ns_ at 282.5 "$node_(0) setdest 25 25 10"
+
+$node_(1) set X_ 100
+$node_(1) set Y_ 25
+$node_(1) set Z_ 0
+$ns_ at 0.0   "$node_(1) setdest 975 25 10"
+$ns_ at 87.5  "$node_(1) setdest 975 975 10"
+$ns_ at 182.5 "$node_(1) setdest 25 975 10"
+$ns_ at 277.5 "$node_(1) setdest 25 25 10"
+
+$node_(2) set X_ 150
+$node_(2) set Y_ 25
+$node_(2) set Z_ 0
+$ns_ at 0.0   "$node_(2) setdest 975 25 10"
+$ns_ at 82.5  "$node_(2) setdest 975 975 10"
+$ns_ at 177.5 "$node_(2) setdest 25 975 10"
+$ns_ at 272.5 "$node_(2) setdest 25 25 10"
+
+$node_(3) set X_ 200
+$node_(3) set Y_ 25
+$node_(3) set Z_ 0
+$ns_ at 0.0   "$node_(3) setdest 975 25 10"
+$ns_ at 77.5  "$node_(3) setdest 975 975 10"
+$ns_ at 172.5 "$node_(3) setdest 25 975 10"
+$ns_ at 267.5 "$node_(3) setdest 25 25 10"
+
+$node_(4) set X_ 975
+$node_(4) set Y_ 25
+$node_(4) set Z_ 0
+
+$node_(5) set X_ 25
+$node_(5) set Y_ 975
+$node_(5) set Z_ 0

@@ -1,0 +1,433 @@
+/*--------------------------------------------------------------------------- */
+/*--------------------------VCDClient---------------------------------------- */
+/*--------------------------------------------------------------------------- */
+
+/**
+ * VCDClientAppClass is used to create VCDClient in C++ domain when the user invokes the command in the OTcl domain. 
+ * It is necessary when we have to add a new application.
+ */
+static class VCDClientAppClass : public TclClass
+
+/**
+ * The constructor of VCDClient. 
+ * It binds the n_num_ variable with the id_ variable in OTcl domain. 
+ *
+ * It initialzes all the internal variables including six timers, three lists, state and so on. 
+ *
+ * It allocates the memory space for the lists and assigns initial values.
+ *
+ * The six timers are C++ class. Their constructors need a pointer to VCDClient.
+ */
+VCDClient::VCDClient() : Adver_timer_(this), CTS_timer_(this),
+        Traffic_timer_(this), Sharing_timer_(this), TransferAck_timer_(this),
+        Cts_tx_timer_(this)
+
+/**
+ * It is the destructor of the VCDClient.
+ * It frees the memory spaces for the lists.
+ */
+VCDClient::~VCDClient()
+
+/**
+ * It receives commands from OTcl domain.
+ * @param argc:integer. The number of command line arguments.
+ * @param argv:char**. The full list of all of the command line arguments.
+ * 
+ * The function only accepts "sendRequest" command. 
+ * It firstly tests whether the 2nd argument is "sendReqeust" or not. If it is, it invokes the "sendRequest" using the 3rd argument as the input parameter for sendRequest function.
+ */
+int VCDClient::command(int argc, const char*const* argv)
+
+/**
+ * The function is invoked in the first place when the simulation begins. 
+ * It assgins the information of the VCDClient in the GroupManager::vcd_list_ and GroupManager::node_list_.
+ */
+void VCDClient::start()
+
+/**
+ * The function is invoked when the simulation ends.
+ * It counts the number of packets that the client receives and the current state of the client.
+ */
+void VCDClient::stop()
+
+/**
+ * It is the main packet receive function. It is called by the lower transport agent. In our implementation, it is the MessagePassing Agent.
+ * Different function is called depending on the current state.
+ *
+ * @param recvData:AppData. The application data is stored in this pointer
+ * @param size:int. The size of the application data.
+ * 
+ */
+void VCDClient::process_data(int size, AppData* recvData)
+
+/*---------------------------------------------------------*/
+/**
+ * Main State Transition Structure
+ * if (BROADCAST MSG) {
+ *   do something according to pkt type
+ * }
+ * else if (OVERHEAR MSG) {
+ *   do something according to pkt type
+ * }
+ * else (MSG to this node) {
+ *   do something according to pkt type
+ * }
+ *
+ * The followings are the state handling functions.
+ * The operations according to differnt state are well written in the chapter 3 of the thesis.
+ */
+/*---------------------------------------------------------*/
+
+/**
+ * State Transition in IDLE_STATE
+ * @param data:VCDMsg*. The pointer contains the actual application data.
+ */
+void VCDClient::IdleProcess(VCDMsg* data)
+
+/**
+ * State Transition in COVERAGE_STATE 
+ * @param data:VCDMsg*. The pointer contains the actual application data.
+ */
+void VCDClient::CoverageProcess(VCDMsg* data)
+
+/**
+ * State Transition in DOWNLOAD_STATE
+ * @param data:VCDMsg*. The pointer contains the actual application data.
+ */
+void VCDClient::DownloadProcess(VCDMsg* data)
+
+/**
+ * State Transition in TRANSFER_WAIT_STATE
+ * @param data:VCDMsg*. The pointer contains the actual application data.
+ */
+void VCDClient::TransferWaitProcess(VCDMsg* data)
+
+/**
+ * State Transition in CTS_WAIT_STATE
+ * @param data:VCDMsg*. The pointer contains the actual application data.
+ */
+void VCDClient::CtsWaitProcess(VCDMsg* data)
+
+/**
+ * State Transition in TRANSFER_CTS_STATE
+ * @param data:VCDMsg*. The pointer contains the actual application data.
+ */
+void VCDClient::TransferCtsProcess(VCDMsg* data)
+
+/**
+ * State Transition in TRANSFER_RECEIVE_STATE
+ * @param data:VCDMsg*. The pointer contains the actual application data.
+ */
+void VCDClient::TransferReceiveProcess(VCDMsg* data)
+
+/**
+ * State Transition in TRANSFER_SEND_STATE
+ * @param data:VCDMsg*. The pointer contains the actual application data.
+ */
+void VCDClient::TransferSendProcess(VCDMsg* data)
+
+/**
+ * The Client sends the REQUEST message to Server.
+ * @param receiver:int. The unique identification of the AP. 
+ */
+void VCDClient::sendRequest(int receiver)
+
+/**
+ * The Client receives the CTS message and updates the pkt_other_need_ list.
+ * It records both the packet number and the id of the vehicle which needs the packet. 
+ * @param data:VCDMsg*. The application data which contains CTS message. 
+ */
+void VCDClient::updateOtherNeed(VCDMsg* data)
+
+/**
+ * The Client is in TRANSFER_WAIT_STATE. After AdverTimer timeout, it sends the broadcast ADVER message.
+ */
+void VCDClient::sendAdver()
+
+/**
+ * The Client is in TRANSFER_WAIT_STATE and receives the ADVER message. Now it sends back the CTS message.
+ * The receiver of CTS is transfer_sender_, which is already assigned in the state transition code.
+ */
+void VCDClient::sendCTS()
+
+/**
+ * The Client is in the TRANSFER_SEND_STATE and sends the TRANSFER message.
+ */
+void VCDClient::transferTx()
+
+/*-----------------------------------------------------*/
+/**
+ * Main Timeout Structure
+ * Do something according to the current state
+ * The following are the timeout handling functions.
+ */
+/*-----------------------------------------------------*/
+
+/**
+ * TrafficTimer Timeout Handling Functions
+ */
+void VCDClient::TrafficTimeout()
+
+/**
+ * AdverTimer Timeout Handling Functions
+ */
+void VCDClient::AdverTimeout()
+
+/**
+ * CTSTimer Timeout Handling Functions
+ */
+void VCDClient::CTSTimeout()
+
+/**
+ * TransferTimer Timeout Handling Functions
+ */
+void VCDClient::TransferTimeout()
+
+/**
+ * TransferAckTimer Timeout Handling Functions
+ */
+void VCDClient::TransferAckTimeout()
+
+/**
+ * CtsTxTimer Timeout Handling Functions
+ */
+void VCDClient::CtsTxTimeout()
+
+/**
+ * The Client successfully transmits the packet.
+ * It is called when 802.11 MAC layer sender correctly receives the ACK message.
+ * In order to make this work, the agent should use the sendmsgWithAck function: "agent_->sendmsgWithAck(msg->size(), msg, this);"
+ */
+void VCDClient::correctSend()
+
+/**
+ * The Client fails to transmit the packet.
+ * It is called when 802.11 MAC layer sender still fails to receive the ACK message when the retransmission times is larger than the threshold.
+ * In order to make this work, the agent should use the sendmsgWithAck function: "agent_->sendmsgWithAck(msg->size(), msg, this);"
+ */
+void VCDClient::inCorrectSend()
+
+/**
+ * Check whether the Client has received all the packets or not.
+ * @return int. VALID if it has reveived all the packets. INVALID if it has not. 
+ */
+int VCDClient::checkFinish()
+
+/*----------------------------------------------------------*/
+/**
+ * The following six functions are the setters and getters of the three private variables.
+ */
+/*----------------------------------------------------------*/
+void VCDClient::updateState(VCD_State_t state)
+VCD_State_t VCDClient::getState()
+void VCDClient::updateAttachedAP(int AP)
+int VCDClient::getAttachedAP()
+void VCDClient::setTransferSender(int sender)
+int VCDClient::getTransferSender()
+
+/**
+ * Cancel all the six timers in the VCDClient 
+ */
+void VCDClient::cancelAllTimers()
+
+/*--------------------------------------------------------------------------- */
+/*--------------------------VCDServer---------------------------------------- */
+/*--------------------------------------------------------------------------- */
+
+/**
+ * VCDAppServerClass is used to create VCDClient in C++ domain when the user invokes the command in the OTcl domain. 
+ * It is necessary when we have to add a new application.
+ */
+static class VCDAppServerClass : public TclClass
+
+/**
+ * The constructor of VCDServer. 
+ * It binds the n_num_ variable with the id_ variable in OTcl domain. 
+ *
+ * It initialzes state and seqno. 
+ */
+VCDServer::VCDServer()
+
+/**
+ * The function is invoked in the first place when the simulation begins. 
+ * The server is static. So the location does not need to be updated by GroupManager. We only have to update once here.  
+ */
+void VCDServer::start()
+
+/**
+ * Although VCDServer does not receive any specific command from the OTcl domain, we have to override this function.
+ * It calls the Application::command, which accepts common command for Application.
+ */
+int VCDServer::command(int argc, const char*const* argv)
+
+/**
+ * The function is invoked when the simulation ends.
+ * It counts the number of packets that the client receives and the current state of the Server.
+ */
+void VCDServer::stop()
+
+/**
+ * The Server successfully transmits the packet.
+ * It is called when 802.11 MAC layer sender correctly receives the ACK message.
+ * In order to make this work, the agent should use the sendmsgWithAck function: "agent_->sendmsgWithAck(msg->size(), msg, this);"
+ * Then it transmits the next packet to the header again. 
+ */
+void VCDServer::correctSend()
+
+/**
+ * The Client fails to transmit the packet.
+ * It is called when 802.11 MAC layer sender still fails to receive the ACK message when the retransmission times is larger than the threshold.
+ * In order to make this work, the agent should use the sendmsgWithAck function: "agent_->sendmsgWithAck(msg->size(), msg, this);"
+ * It finds the next header in the group. Then it transmits the packet again to the new header. If no header is available, the Server stops sending the packets.
+ */
+void VCDServer::inCorrectSend()
+
+/**
+ * It is the main packet receive function. It is called by the lower transport agent. In our implementation, it is the MessagePassing Agent.
+ * Different function is called depending on the current state.
+ * The Server only accepts REQEUST message when it is in IDLE_STATE
+ *
+ * @param recvData:AppData. The application data is stored in this pointer
+ * @param size:int. The size of the application data.
+ * 
+ */
+void VCDServer::process_data(int size, AppData* recvData)
+
+/**
+ * State Transition in IDLE_STATE
+ * @param data:VCDMsg*. The pointer contains the actual application data.
+ * It receives the REQUEST message and transmits back the TRAFFIC message.
+ */
+void VCDServer::IdleProcess(VCDMsg* data)
+
+/*--------------------------------------------------------------------------- */
+/*--------------------------GroupManager------------------------------------- */
+/*--------------------------------------------------------------------------- */
+
+/**
+ * GroupManagerClass is used to create GroupManager in C++ domain when the user invokes the command in the OTcl domain. 
+ */
+static class GroupManagerClass : public TclClass
+
+/**
+ * The constructor of GroupManager. 
+ * It allocates the memory space for the lists and assigns initial values.
+ * There is only one timer: GPSUpdateTimer
+ */
+GroupManager::GroupManager() : update_timer_(this)
+
+/**
+ * It is the destructor of the GroupManager.
+ * It frees the memory spaces for the lists.
+ */
+GroupManager::~GroupManager()
+
+/**
+ * It receives commands from OTcl domain.
+ * The function only accepts "start" command. It calls the start() function.
+ * @param argc:integer. The number of command line arguments.
+ * @param argv:char**. The full list of all of the command line arguments.
+ * @param int. -1, if the function can not recognize the command.
+ *             TCL_OK, if the command is successfully executed.
+ */
+int GroupManager::command(int argc, const char*const* argv)
+
+/**
+ * It starts the GPS update timer at GPS_INTERVAL time.
+ */
+void GroupManager::start()
+
+/**
+ * It is called when the VCDGPSUpdateTimer reaches timeout value.
+ * It firstly updates the location of the vehicle. 
+ * Then it calculates its distance from an AP. 
+ * If it is inside one AP's coverage range and is the header of the group at that moment, it transmits REQUEST message. 
+ * If it is inside one AP's coverage range but is not the header, it only updates the attached_ap vaiable in the class. 
+ * If it is outside all AP's coverage range, it clears the attached_ap variable. 
+ */
+void GroupManager::GPSUpdate() 
+
+/**
+ * Update the location of the nodes.
+ * @param num:int. The identification of the node.
+ * @param n:MobilNode*. The internal pointer to the node, from which we can get the position.
+ */
+void GroupManager::updateLoc(MobileNode *n, int num)
+
+/**
+ * Calculate the distance between node i and node j.
+ */
+double GroupManager::calDistance(int i, int j)
+
+/*--------------------------------------------------------------------------- */
+/*--------------------------Timers------------------------------------------- */
+/*--------------------------------------------------------------------------- */
+
+/**
+ * This comment holds for the next seven timers.
+ * The pointer to the application is assigned when the timer is created. 
+ * Then the corresponding void expire(Event *) function is called by the simulator when the timer reaches the timeout time. 
+ * So inside the expire function, we call the corresponding function to handle the timeout event.
+ */
+void VCDGPSUpdateTimer::expire(Event *)
+
+void VCDClientTrafficTimer::expire(Event *)
+
+void VCDClientSharingTimer::expire(Event *)
+
+void VCDClientAdverTimer::expire(Event *)
+
+void VCDClientCTSTimer::expire(Event *)
+
+void VCDClientTransferAckTimer::expire(Event *)
+
+void VCDClientCtsTxTimer::expire(Event *)
+
+/**
+ * Reset the retransmission times to one.
+ */
+void VCDClientAdverTimer::reset()
+
+/**
+ * Increase the retransmission times by one.
+ */
+void VCDClientAdverTimer::txMore()
+
+/**
+ * Schedule sending time randomly between 0 and the maximum timeout value. 
+ * The maximum time value is the ADVER_TIMEOUT multiplying the retransmission times.
+ */ 
+void VCDClientAdverTimer::sched()
+
+/*--------------------------------------------------------------------------- */
+/*--------------------------InputParameter----------------------------------- */
+/*--------------------------------------------------------------------------- */
+
+/**
+ * InputParameterClass is used to create InputParameter C++ domain when the user invokes the command in the OTcl domain. 
+ */
+static class InputParameterClass : public TclClass
+
+/**
+ * The parameters are defined as the static member variables of the class such that other class can access these variables without referring to one specific instance of the class.    
+ * The mechanisms about how to bind static C++ class member variables is provided in the manual
+ * Create the binding methods in the implementation of bind() with add_method()
+ */
+void InputParameterClass::bind()
+
+/**
+ * Implement the handler in method() in a similar way as one would do in TclObject::command(). 
+ * Notice that the number of arguments passed to TclClass::method() are different from those passed to TclObject::command(). 
+ * The former has two more arguments in the front.
+ */
+int InputParameterClass::method(int ac, const char*const* av)
+
+/*--------------------------------------------------------------------------- */
+/*--------------------------VCDMsg------------------------------------------- */
+/*--------------------------------------------------------------------------- */
+/**
+ * Return the packet status field size using Run Length Coding.
+ * @return the size of the field.
+ */ 
+int VCDMsg::pktStatusSize()
+

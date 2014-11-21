@@ -1,0 +1,7 @@
+There are two types of folders. And further read-me files are inside each folder.
+
+-------func_test-----------
+In these folders, there are tests for the functionalities of the code. They are mainly used for the debugging purposes.
+
+----------TestN------------
+In each folder it contains everything that is related with the simulation including the OTcl scripts for setting up the simulation environment and the bash or Python scripts for running the simulation and acquiring simulation results. All the results of simulations are reported in the thesis. Notice that N is the number staring from one. In each folder, there is a read-me file describing the simulation scenario. 

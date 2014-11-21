@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cd twoVehicles;./loop;
+cd ../threeVehicles;./loop;
+cd ../fourVehicles;./loop;
+cd ../fiveVehicles;./loop;
+cd ../sixVehicles;./loop;
+cd ../sevenVehicles;./loop;

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+awk -f ./LessData.awk $1 > $2

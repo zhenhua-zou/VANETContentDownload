@@ -1,0 +1,2913 @@
+INITIALIZE THE LIST xListHead
+Loading mobility pattern...
+Starting Simulation...
+num_nodes is set 8
+group manager starts
+SORTING LISTS ...DONE!
+6 sendRequest 48
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+TX ADVER 9 6 90.7413
+TX ADVER 9 6 91.2053
+TX ADVER 9 6 91.6123
+TX ADVER 9 6 91.9143
+TX ADVER 9 6 92.8343
+TX ADVER 9 6 93.7543
+TX ADVER 9 6 94.1328
+TX ADVER 9 6 94.8728
+TX ADVER 13 5 95.5361
+Rx ADVER 13 6 5 95.5378
+TX CTS 13 6 5 95.6078
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+TX ADVER 13 4 100.578
+TX ADVER 13 4 100.93
+TX ADVER 13 4 101.17
+TX ADVER 13 4 101.731
+TX ADVER 13 4 102.778
+TX ADVER 13 4 103.016
+TX ADVER 13 4 103.76
+TX ADVER 13 4 104.02
+TX ADVER 13 4 104.27
+TX ADVER 13 4 104.864
+No.5 Transfer End 105.049
+TX ADVER 13 5 105.112
+Rx ADVER 13 4 5 105.126
+TX ADVER 9 6 105.185
+TX CTS 13 4 5 105.196
+TX ADVER 21 3 105.636
+Rx ADVER 21 6 3 105.639
+TX CTS 13 6 3 105.649
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+TX ADVER 21 2 110.496
+TX ADVER 21 2 110.937
+TX ADVER 21 2 111.163
+TX ADVER 21 2 111.586
+TX ADVER 21 2 112.092
+TX ADVER 21 2 112.428
+TX ADVER 21 2 112.715
+TX ADVER 21 2 113.069
+TX ADVER 21 2 113.27
+TX ADVER 21 2 113.635
+TX ADVER 21 2 113.888
+TX ADVER 21 2 114.122
+TX ADVER 21 2 114.365
+TX ADVER 21 2 114.743
+No.5 Transfer End 114.748
+TX ADVER 13 4 114.858
+Rx ADVER 13 5 4 114.859
+TX CTS 13 5 4 114.929
+TX ADVER 21 2 115.042
+TX ADVER 21 2 115.281
+No.4 Transfer End 115.281
+Rx ADVER 21 4 2 115.282
+TX CTS 13 4 2 115.322
+TX ADVER 13 5 115.472
+TX ADVER 13 1 115.503
+TX ADVER 13 5 115.693
+TX ADVER 13 1 115.709
+TX ADVER 13 5 115.943
+TX ADVER 13 1 116.138
+TX ADVER 13 5 116.176
+TX ADVER 13 5 116.387
+TX ADVER 13 1 116.388
+TX ADVER 13 1 116.633
+TX ADVER 13 5 116.642
+TX ADVER 13 1 116.863
+TX ADVER 13 5 117.026
+TX ADVER 13 5 117.279
+TX ADVER 13 1 117.515
+TX ADVER 13 5 117.539
+TX ADVER 13 5 117.789
+TX ADVER 13 1 117.805
+TX ADVER 13 1 118.011
+TX ADVER 13 5 118.011
+TX ADVER 13 5 118.254
+TX ADVER 13 1 118.388
+TX ADVER 13 5 118.504
+TX ADVER 13 1 118.622
+TX ADVER 13 5 118.78
+TX ADVER 13 1 119.11
+TX ADVER 13 5 119.276
+TX ADVER 13 1 119.334
+TX ADVER 13 5 119.515
+TX ADVER 13 1 119.569
+TX ADVER 13 5 119.731
+TX ADVER 13 1 119.814
+TX ADVER 13 5 119.96
+TX ADVER 13 1 120.042
+TX ADVER 13 5 120.331
+TX ADVER 13 1 120.354
+TX ADVER 13 5 120.587
+TX ADVER 13 0 120.713
+Rx ADVER 13 1 0 120.718
+No.3 Transfer End 120.724
+TX CTS 13 1 0 120.788
+TX ADVER 21 3 120.817
+TX ADVER 9 6 120.821
+Rx ADVER 9 5 6 120.821
+TX CTS 9 5 6 120.891
+TX ADVER 33 3 121.141
+TX ADVER 33 3 121.346
+TX ADVER 33 3 121.603
+TX ADVER 33 3 122.076
+TX ADVER 33 3 122.518
+TX ADVER 33 3 122.753
+TX ADVER 33 3 123.014
+TX ADVER 33 3 123.447
+TX ADVER 33 3 123.827
+TX ADVER 33 3 124.06
+TX ADVER 33 3 124.289
+TX ADVER 33 3 124.489
+TX ADVER 33 3 124.764
+TX ADVER 33 3 125.102
+TX ADVER 33 3 125.324
+TX ADVER 33 3 125.625
+TX ADVER 33 3 125.832
+TX ADVER 33 3 126.209
+TX ADVER 33 3 126.444
+TX ADVER 33 3 126.821
+TX ADVER 33 3 127.16
+TX ADVER 33 3 127.365
+TX ADVER 33 3 127.594
+TX ADVER 33 3 127.811
+TX ADVER 33 3 128.028
+TX ADVER 33 3 128.254
+TX ADVER 33 3 128.999
+TX ADVER 33 3 129.221
+No.6 Transfer End 129.356
+TX ADVER 33 3 129.424
+Rx ADVER 33 5 3 129.425
+Rx ADVER 33 6 3 129.425
+TX CTS 21 6 3 129.435
+TX CTS 13 5 3 129.465
+No.3 Transfer End 130.846
+TX ADVER 33 3 130.867
+Rx ADVER 33 5 3 130.868
+Rx ADVER 33 6 3 130.868
+TX CTS 21 6 3 130.878
+TX CTS 93 5 3 130.908
+No.3 Transfer End 131.851
+TX ADVER 17 6 131.88
+Rx ADVER 17 3 6 131.883
+TX CTS 21 3 6 131.893
+TX ADVER 65 5 131.945
+TX ADVER 97 5 132.433
+TX ADVER 113 5 132.683
+TX ADVER 177 5 133.257
+TX ADVER 233 5 133.659
+TX ADVER 249 5 133.891
+TX ADVER 289 5 134.506
+TX ADVER 345 5 134.879
+TX ADVER 377 5 135.114
+TX ADVER 401 5 135.35
+TX ADVER 441 5 135.62
+TX ADVER 489 5 136.011
+TX ADVER 553 5 136.459
+TX ADVER 617 5 136.705
+No.2 Transfer End 136.752
+TX ADVER 29 2 136.866
+Rx ADVER 29 4 2 136.869
+TX CTS 13 4 2 136.909
+TX ADVER 617 5 137.046
+TX ADVER 625 5 137.253
+TX ADVER 657 5 137.468
+TX ADVER 721 5 138.031
+TX ADVER 745 5 138.297
+TX ADVER 785 5 138.525
+TX ADVER 825 5 138.754
+TX ADVER 857 5 138.985
+No.2 Transfer End 139.123
+No.0 Transfer End 139.182
+TX ADVER 873 5 139.206
+Rx ADVER 873 2 5 139.214
+TX CTS 17 2 5 139.224
+TX ADVER 13 0 139.266
+TX ADVER 13 1 139.325
+Rx ADVER 13 4 1 139.328
+TX CTS 21 4 1 139.338
+TX ADVER 13 0 139.614
+TX ADVER 13 0 139.907
+TX ADVER 13 0 140.168
+TX ADVER 13 0 141.187
+TX ADVER 13 0 141.94
+TX ADVER 13 0 143.199
+TX ADVER 13 0 143.677
+TX ADVER 13 0 144.019
+TX ADVER 13 0 144.354
+TX ADVER 13 0 145.083
+TX ADVER 13 0 145.406
+TX ADVER 13 0 145.627
+No.1 Transfer End 145.96
+TX ADVER 9 4 145.986
+Rx ADVER 9 1 4 145.988
+TX CTS 9 1 4 145.998
+TX ADVER 13 0 147.952
+TX ADVER 13 0 148.444
+TX ADVER 13 0 149.484
+TX ADVER 13 0 150.092
+TX ADVER 13 0 151.507
+No.6 Transfer End 151.853
+TX ADVER 9 3 151.938
+Rx ADVER 9 0 3 151.939
+Rx ADVER 9 6 3 151.939
+TX CTS 21 6 3 151.949
+TX CTS 9 0 3 151.949
+No.3 Transfer End 206.805
+TX ADVER 9 3 206.876
+TX ADVER 9 0 206.935
+TX ADVER 9 0 207.177
+TX ADVER 9 3 207.213
+TX ADVER 9 6 207.452
+TX ADVER 9 0 207.57
+TX ADVER 9 6 207.755
+TX ADVER 9 3 207.812
+TX ADVER 9 0 207.86
+TX ADVER 9 6 207.978
+TX ADVER 9 3 208.106
+TX ADVER 9 6 208.203
+TX ADVER 9 3 208.318
+TX ADVER 9 0 208.563
+TX ADVER 9 3 208.639
+TX ADVER 9 6 208.797
+TX ADVER 9 6 209.093
+TX ADVER 9 6 209.294
+TX ADVER 9 3 209.53
+TX ADVER 9 6 209.586
+TX ADVER 9 0 209.591
+TX ADVER 9 3 209.818
+TX ADVER 9 0 209.833
+TX ADVER 9 6 209.849
+TX ADVER 9 3 210.034
+TX ADVER 9 6 210.217
+TX ADVER 9 6 210.448
+TX ADVER 9 3 210.517
+TX ADVER 9 3 210.75
+TX ADVER 9 0 210.837
+TX ADVER 9 3 210.954
+TX ADVER 9 0 211.037
+TX ADVER 9 3 211.161
+TX ADVER 9 6 211.319
+TX ADVER 9 0 211.432
+TX ADVER 9 3 211.578
+TX ADVER 9 6 211.697
+TX ADVER 9 3 211.872
+TX ADVER 9 0 212.11
+TX ADVER 9 3 212.128
+TX ADVER 9 6 212.183
+TX ADVER 9 0 212.67
+TX ADVER 9 6 212.704
+TX ADVER 9 3 212.721
+TX ADVER 9 3 213.049
+TX ADVER 9 6 213.352
+TX ADVER 9 3 213.437
+TX ADVER 9 6 213.566
+No.4 Transfer End 213.647
+TX ADVER 9 3 213.736
+TX ADVER 9 1 213.769
+TX ADVER 9 4 213.77
+TX ADVER 9 6 213.832
+TX ADVER 9 6 214.069
+TX ADVER 9 3 214.097
+TX ADVER 9 4 214.116
+TX ADVER 9 1 214.242
+TX ADVER 9 4 214.38
+TX ADVER 9 6 214.463
+TX ADVER 9 3 214.519
+TX ADVER 9 4 214.595
+TX ADVER 9 3 214.726
+TX ADVER 9 1 214.735
+TX ADVER 9 6 214.769
+TX ADVER 9 0 214.781
+TX ADVER 9 1 214.941
+TX ADVER 9 3 214.965
+TX ADVER 9 4 215.037
+TX ADVER 9 6 215.193
+TX ADVER 9 4 215.264
+TX ADVER 9 3 215.288
+TX ADVER 9 1 215.328
+TX ADVER 9 4 215.468
+TX ADVER 9 6 215.47
+TX ADVER 9 3 215.519
+TX ADVER 9 0 215.611
+TX ADVER 9 6 215.678
+TX ADVER 9 4 215.702
+TX ADVER 9 3 215.723
+TX ADVER 9 3 215.936
+TX ADVER 9 6 215.95
+TX ADVER 9 4 215.995
+TX ADVER 9 1 216.068
+TX ADVER 9 3 216.207
+TX ADVER 9 4 216.227
+TX ADVER 9 6 216.325
+TX ADVER 9 3 216.421
+TX ADVER 9 4 216.45
+TX ADVER 9 6 216.525
+TX ADVER 9 3 216.666
+TX ADVER 9 4 216.672
+TX ADVER 9 6 216.839
+TX ADVER 9 1 216.877
+TX ADVER 9 4 216.879
+TX ADVER 9 3 216.925
+TX ADVER 9 3 217.129
+TX ADVER 9 4 217.194
+TX ADVER 9 1 217.197
+TX ADVER 9 6 217.255
+TX ADVER 9 0 217.319
+TX ADVER 9 3 217.343
+TX ADVER 9 4 217.47
+TX ADVER 9 6 217.495
+TX ADVER 9 0 217.567
+TX ADVER 9 1 217.573
+TX ADVER 9 3 217.627
+TX ADVER 9 6 217.735
+TX ADVER 9 4 217.853
+TX ADVER 9 3 217.864
+TX ADVER 9 3 218.117
+TX ADVER 9 6 218.119
+TX ADVER 9 4 218.35
+No.5 Transfer End 218.409
+TX ADVER 9 5 218.43
+TX ADVER 9 2 218.539
+TX ADVER 9 2 218.802
+TX ADVER 9 5 218.876
+TX ADVER 9 1 218.943
+TX ADVER 9 4 218.955
+TX ADVER 9 2 219.186
+TX ADVER 9 5 219.436
+TX ADVER 9 2 219.644
+TX ADVER 9 1 219.869
+TX ADVER 9 0 220.087
+TX ADVER 9 6 220.091
+TX ADVER 9 5 220.164
+TX ADVER 9 2 220.437
+TX ADVER 9 5 220.746
+TX ADVER 9 4 220.836
+TX ADVER 9 1 221.257
+TX ADVER 9 5 221.27
+TX ADVER 9 2 221.42
+TX ADVER 9 0 221.475
+TX ADVER 9 5 221.533
+TX ADVER 9 4 221.846
+TX ADVER 9 2 221.998
+TX ADVER 9 3 222.113
+TX ADVER 9 2 222.666
+TX ADVER 9 5 222.669
+TX ADVER 9 1 223.173
+TX ADVER 9 4 223.495
+TX ADVER 9 5 223.531
+TX ADVER 9 6 224.065
+TX ADVER 9 2 224.081
+TX ADVER 9 0 224.24
+TX ADVER 9 2 224.566
+TX ADVER 9 5 224.691
+TX ADVER 9 1 224.696
+TX ADVER 9 1 225.436
+TX ADVER 9 4 225.51
+TX ADVER 9 5 225.897
+TX ADVER 9 2 225.937
+TX ADVER 9 2 226.155
+TX ADVER 9 6 226.89
+TX ADVER 9 3 226.993
+TX ADVER 9 1 227.172
+TX ADVER 9 0 227.29
+TX ADVER 9 2 227.311
+TX ADVER 9 5 227.321
+TX ADVER 9 5 227.697
+TX ADVER 9 5 228.086
+TX ADVER 9 4 228.091
+TX ADVER 9 4 228.831
+TX ADVER 9 1 229.208
+TX ADVER 9 2 229.212
+TX ADVER 9 5 229.861
+TX ADVER 9 0 230.073
+TX ADVER 9 2 230.357
+TX ADVER 9 1 231.055
+TX ADVER 9 2 231.109
+TX ADVER 9 6 231.518
+TX ADVER 9 0 231.857
+TX ADVER 9 5 232.197
+TX ADVER 9 4 232.556
+TX ADVER 9 5 232.677
+TX ADVER 9 3 232.833
+TX ADVER 9 5 232.958
+TX ADVER 9 5 233.301
+TX ADVER 9 3 233.464
+TX ADVER 9 1 233.506
+TX ADVER 9 2 233.808
+TX ADVER 9 5 233.891
+TX ADVER 9 2 234.845
+TX ADVER 9 0 234.921
+TX ADVER 9 5 235.603
+TX ADVER 9 1 235.806
+TX ADVER 9 4 236.071
+TX ADVER 9 6 236.547
+TX ADVER 9 2 237.068
+TX ADVER 9 0 238.037
+TX ADVER 9 1 238.085
+TX ADVER 9 5 238.41
+TX ADVER 9 4 238.417
+TX ADVER 9 3 238.641
+TX ADVER 9 1 238.912
+TX ADVER 9 3 239.744
+TX ADVER 9 4 239.751
+TX ADVER 9 4 240.125
+TX ADVER 9 2 240.148
+TX ADVER 9 6 240.224
+TX ADVER 9 0 240.599
+TX ADVER 9 5 240.921
+TX ADVER 9 4 241.45
+TX ADVER 9 2 241.671
+TX ADVER 9 1 241.734
+TX ADVER 9 6 242.296
+TX ADVER 9 1 242.33
+TX ADVER 9 4 242.394
+TX ADVER 9 4 243.41
+TX ADVER 9 0 243.607
+TX ADVER 9 5 243.893
+TX ADVER 9 1 244.03
+TX ADVER 9 3 244.564
+TX ADVER 9 0 244.617
+TX ADVER 9 2 244.643
+TX ADVER 9 1 244.776
+TX ADVER 9 0 245.153
+TX ADVER 9 3 245.844
+TX ADVER 9 0 246.31
+TX ADVER 9 2 246.327
+TX ADVER 9 6 246.576
+TX ADVER 9 0 246.78
+TX ADVER 9 2 247.211
+TX ADVER 9 5 247.393
+TX ADVER 9 4 247.669
+TX ADVER 9 0 248.189
+TX ADVER 9 5 248.841
+TX ADVER 9 1 248.864
+TX ADVER 9 3 249.149
+TX ADVER 9 5 249.163
+TX ADVER 9 6 250.281
+TX ADVER 9 2 250.636
+TX ADVER 9 2 251.226
+TX ADVER 9 0 251.413
+TX ADVER 9 3 251.957
+TX ADVER 9 6 252.119
+TX ADVER 9 4 252.408
+TX ADVER 9 1 252.97
+TX ADVER 9 5 253.269
+TX ADVER 9 2 254.301
+TX ADVER 9 5 255.6
+TX ADVER 9 4 255.706
+TX ADVER 9 5 255.98
+TX ADVER 9 0 256.068
+TX ADVER 9 2 256.223
+TX ADVER 9 5 256.366
+TX ADVER 9 1 256.824
+TX ADVER 9 0 257.339
+TX ADVER 9 6 257.673
+TX ADVER 9 4 257.958
+TX ADVER 9 0 258.432
+TX ADVER 9 3 258.997
+TX ADVER 9 1 259.994
+TX ADVER 9 2 260.512
+TX ADVER 9 0 260.63
+TX ADVER 9 6 260.645
+TX ADVER 9 5 261.174
+TX ADVER 9 4 262.154
+TX ADVER 9 1 262.38
+TX ADVER 9 3 262.652
+TX ADVER 9 6 263.275
+TX ADVER 9 2 263.952
+TX ADVER 9 3 264.502
+TX ADVER 9 6 265.269
+TX ADVER 9 0 265.27
+TX ADVER 9 5 265.532
+TX ADVER 9 1 266.324
+TX ADVER 9 2 266.617
+TX ADVER 9 4 267.142
+TX ADVER 9 3 267.226
+TX ADVER 9 0 267.978
+TX ADVER 9 1 268.009
+TX ADVER 9 6 268.712
+TX ADVER 9 1 268.923
+TX ADVER 9 2 269.265
+TX ADVER 9 3 269.61
+TX ADVER 9 5 269.659
+TX ADVER 9 6 269.92
+TX ADVER 9 3 270.526
+TX ADVER 9 0 270.576
+TX ADVER 9 4 270.91
+TX ADVER 9 1 271.538
+TX ADVER 9 1 272.44
+TX ADVER 9 0 272.756
+TX ADVER 9 3 272.913
+TX ADVER 9 2 273.623
+TX ADVER 9 6 273.868
+TX ADVER 9 5 274.584
+TX ADVER 9 4 275.43
+TX ADVER 9 5 275.756
+TX ADVER 9 3 275.835
+TX ADVER 9 2 276.985
+TX ADVER 9 0 277.077
+TX ADVER 9 1 277.135
+TX ADVER 9 6 277.968
+TX ADVER 9 6 279.316
+TX ADVER 9 0 279.356
+TX ADVER 9 5 280.341
+TX ADVER 9 2 280.807
+TX ADVER 9 1 281.325
+TX ADVER 9 4 281.411
+TX ADVER 9 6 281.466
+TX ADVER 9 2 282.357
+TX ADVER 9 0 282.587
+TX ADVER 9 4 282.997
+TX ADVER 9 3 283.427
+TX ADVER 9 2 283.667
+TX ADVER 9 3 284.055
+TX ADVER 9 1 284.86
+TX ADVER 9 0 285.229
+TX ADVER 9 1 285.36
+TX ADVER 9 5 285.899
+TX ADVER 9 2 286.546
+TX ADVER 9 0 286.982
+TX ADVER 9 6 286.992
+TX ADVER 9 4 287.196
+TX ADVER 9 5 287.561
+TX ADVER 9 1 287.651
+TX ADVER 9 0 288.286
+TX ADVER 9 4 288.65
+TX ADVER 9 3 288.866
+TX ADVER 9 5 289.321
+TX ADVER 9 6 290.513
+TX ADVER 9 2 291.719
+TX ADVER 9 4 293.508
+TX ADVER 9 1 293.773
+TX ADVER 9 6 293.931
+TX ADVER 9 5 294.072
+TX ADVER 9 0 294.478
+TX ADVER 9 2 295.279
+TX ADVER 9 3 295.615
+TX ADVER 9 6 296.651
+TX ADVER 9 4 296.813
+TX ADVER 9 5 296.855
+TX ADVER 9 1 297.52
+TX ADVER 9 5 298.087
+TX ADVER 9 0 298.206
+TX ADVER 9 4 298.705
+TX ADVER 9 2 298.923
+TX ADVER 9 4 299.337
+TX ADVER 9 0 300.023
+TX ADVER 9 3 300.045
+TX ADVER 9 5 300.531
+TX ADVER 9 1 301.548
+TX ADVER 9 3 302.349
+TX ADVER 9 6 303.007
+TX ADVER 9 5 304.039
+TX ADVER 9 2 304.667
+TX ADVER 9 4 305.049
+TX ADVER 9 2 305.77
+TX ADVER 9 1 306.068
+TX ADVER 9 0 306.073
+TX ADVER 9 5 306.378
+TX ADVER 9 0 306.962
+TX ADVER 9 2 307.092
+TX ADVER 9 5 309.398
+TX ADVER 9 3 310.64
+TX ADVER 9 6 311.124
+TX ADVER 9 4 311.699
+TX ADVER 9 2 311.747
+TX ADVER 9 5 312.046
+TX ADVER 9 1 312.064
+TX ADVER 9 5 312.319
+TX ADVER 9 0 312.778
+TX ADVER 9 3 313.392
+TX ADVER 9 4 313.659
+TX ADVER 9 2 313.672
+TX ADVER 9 4 314.249
+TX ADVER 9 2 314.436
+TX ADVER 9 5 315.969
+TX ADVER 9 3 316.952
+TX ADVER 9 1 317.27
+TX ADVER 9 0 318.781
+TX ADVER 9 2 318.956
+TX ADVER 9 4 319.06
+TX ADVER 9 6 319.82
+TX ADVER 9 1 320.278
+TX ADVER 9 2 321.508
+TX ADVER 9 1 322.242
+TX ADVER 9 4 323.472
+TX ADVER 9 5 323.59
+TX ADVER 9 1 323.867
+TX ADVER 9 2 324.108
+TX ADVER 9 0 324.489
+TX ADVER 9 6 325.06
+TX ADVER 9 3 325.147
+TX ADVER 9 6 327.547
+TX ADVER 9 0 327.907
+TX ADVER 9 1 328.045
+TX ADVER 9 4 328.539
+TX ADVER 9 2 329.586
+TX ADVER 9 6 329.7
+TX ADVER 9 1 330.429
+TX ADVER 9 5 331.434
+TX ADVER 9 4 332.519
+TX ADVER 9 0 332.559
+TX ADVER 9 6 332.735
+TX ADVER 9 0 332.844
+TX ADVER 9 4 333.061
+TX ADVER 9 3 333.564
+TX ADVER 9 5 333.701
+TX ADVER 9 4 333.87
+TX ADVER 9 5 334.387
+TX ADVER 9 1 335.796
+TX ADVER 9 2 335.948
+TX ADVER 9 5 336.979
+TX ADVER 9 3 337.884
+TX ADVER 9 2 337.897
+TX ADVER 9 0 338.351
+TX ADVER 9 5 339.615
+TX ADVER 9 5 339.815
+TX ADVER 9 6 340.615
+TX ADVER 9 4 342.035
+TX ADVER 9 1 342.071
+TX ADVER 9 0 344.038
+TX ADVER 9 5 344.713
+TX ADVER 9 2 345.792
+TX ADVER 9 3 346.244
+TX ADVER 9 6 346.665
+TX ADVER 9 4 347.005
+TX ADVER 9 5 347.303
+TX ADVER 9 1 348.211
+TX ADVER 9 0 348.558
+TX ADVER 9 5 348.943
+TX ADVER 9 1 349.083
+TX ADVER 9 4 350.225
+TX ADVER 9 2 350.612
+TX ADVER 9 4 351.913
+TX ADVER 9 3 353.689
+TX ADVER 9 0 354.523
+TX ADVER 9 6 354.785
+TX ADVER 9 1 356.294
+TX ADVER 9 5 356.554
+TX ADVER 9 2 357.784
+TX ADVER 9 4 358.066
+TX ADVER 9 0 358.35
+TX ADVER 9 0 358.55
+TX ADVER 9 4 359.034
+TX ADVER 9 5 359.451
+TX ADVER 9 0 359.902
+TX ADVER 9 6 360.211
+TX ADVER 9 3 361.974
+TX ADVER 9 1 363.802
+TX ADVER 9 5 363.809
+TX ADVER 9 6 364.287
+TX ADVER 9 2 364.995
+TX ADVER 9 6 366.454
+TX ADVER 9 0 367.317
+TX ADVER 9 5 367.849
+TX ADVER 9 4 367.912
+TX ADVER 9 2 367.979
+TX ADVER 9 0 369.893
+TX ADVER 9 1 371.348
+TX ADVER 9 3 372.718
+TX ADVER 9 5 372.924
+TX ADVER 9 2 373.224
+TX ADVER 9 6 373.794
+TX ADVER 9 3 375.186
+TX ADVER 9 1 376.318
+TX ADVER 9 0 376.826
+TX ADVER 9 4 377.715
+TX ADVER 9 0 378.25
+TX ADVER 9 3 378.452
+---- VCDServer ---- 
+Server transfered 41236 pkts.
+
+---- Client NO.0 stops ----- 
+0
+41237
+state is TRANSFER_WAIT_PHASE 
+It received 41237 packets.
+
+---- Client NO.1 stops ----- 
+0
+41237
+state is TRANSFER_WAIT_PHASE 
+It received 41237 packets.
+
+---- Client NO.2 stops ----- 
+0
+41237
+state is TRANSFER_WAIT_PHASE 
+It received 41237 packets.
+
+---- Client NO.3 stops ----- 
+0
+41237
+state is TRANSFER_WAIT_PHASE 
+It received 41237 packets.
+
+---- Client NO.4 stops ----- 
+0
+41237
+state is TRANSFER_WAIT_PHASE 
+It received 41237 packets.
+
+---- Client NO.5 stops ----- 
+0
+41237
+state is TRANSFER_WAIT_PHASE 
+It received 41237 packets.
+
+---- Client NO.6 stops ----- 
+0
+41237
+state is TRANSFER_WAIT_PHASE 
+It received 41237 packets.
+
+TX ADVER 9 2 380.984
+NS EXITING...

@@ -1,0 +1,51 @@
+INITIALIZE THE LIST xListHead
+Loading mobility pattern...
+Starting Simulation...
+num_nodes is set 6
+group manager starts
+SORTING LISTS ...DONE!
+4 sendRequest 58
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+pkt size 13
+pkt size 13
+pkt size 13
+pkt size 13
+pkt size 13
+pkt size 9
+pkt size 13
+pkt size 17
+pkt size 13
+pkt size 13
+pkt size 13
+pkt size 13
+pkt size 9
+pkt size 13
+pkt size 9
+pkt size 9
+pkt size 9
+pkt size 13
+---- VCDServer ---- 
+Server transfered 38585 pkts.
+
+---- Client NO.0 stops ----- 
+state is CTS_WAIT_PHASE 
+It received 38585 packets.
+
+---- Client NO.1 stops ----- 
+state is CTS_WAIT_PHASE 
+It received 38585 packets.
+
+---- Client NO.2 stops ----- 
+state is CTS_WAIT_PHASE 
+It received 38585 packets.
+
+---- Client NO.3 stops ----- 
+state is CTS_WAIT_PHASE 
+It received 38585 packets.
+
+---- Client NO.4 stops ----- 
+state is TRANSFER_WAIT_PHASE 
+It received 38585 packets.
+
+NS EXITING...

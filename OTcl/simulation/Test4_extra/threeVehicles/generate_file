@@ -1,0 +1,11 @@
+#!/bin/bash
+
+x=1
+while [ $x -le 6 ]
+do
+  echo "set val(MN) 3" > 3_$x.tcl
+  pkt=$[x*5000]
+  echo "set val(FILE_SIZE) $pkt" >> 3_$x.tcl
+  echo "source ../common.tcl" >> 3_$x.tcl
+  x=$(($x+1))
+done

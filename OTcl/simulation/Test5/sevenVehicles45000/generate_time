@@ -1,0 +1,11 @@
+#!/bin/bash
+
+x=1
+while [ $x -le 30 ]
+do
+  echo "set val(MN) 7" > 7_$x.tcl
+  echo "set val(FILE_SIZE) 45000" >> 7_$x.tcl
+  echo "InputParameter sharing_timeout_ $x" >> 7_$x.tcl
+  echo "source ../common.tcl" >> 7_$x.tcl
+  x=$(($x+1))
+done

@@ -1,0 +1,5023 @@
+INITIALIZE THE LIST xListHead
+Loading mobility pattern...
+Starting Simulation...
+num_nodes is set 8
+group manager starts
+SORTING LISTS ...DONE!
+6 sendRequest 48
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+all pkt finished at 86.4737
+TX ADVER 9 6 90.7113
+TX ADVER 9 6 91.1333
+TX ADVER 9 6 91.3603
+TX ADVER 9 6 91.6143
+TX ADVER 9 6 92.4143
+TX ADVER 9 6 92.9023
+TX ADVER 9 6 93.2178
+TX ADVER 9 6 94.3898
+TX ADVER 9 6 95.3458
+TX ADVER 13 5 95.5961
+Rx ADVER 13 6 5 95.5974
+TX CTS 13 6 5 95.6674
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+overhear collision!!!!!!!!!
+7
+TX ADVER 9 1 99.5769
+TX ADVER 9 0 99.5799
+all data in the server have been sent out
+all data in the server have been sent out
+TX ADVER 9 3 99.6217
+Rx ADVER 9 2 3 99.6231
+TX CTS 13 2 3 99.6931
+TX ADVER 9 4 99.7429
+TX ADVER 17 1 99.8308
+Rx ADVER 17 0 1 99.8346
+all data in the server have been sent out
+TX CTS 13 0 1 99.9046
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+TX ADVER 9 4 100.136
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+TX ADVER 9 4 100.34
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+TX ADVER 9 4 100.792
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+TX ADVER 9 4 101.199
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+TX ADVER 9 4 101.702
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+TX ADVER 9 4 101.969
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+TX ADVER 9 4 102.265
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+all data in the server have been sent out
+TX ADVER 9 4 102.674
+No.5 Transfer End 102.764
+TX ADVER 9 6 102.853
+Rx ADVER 9 5 6 102.866
+TX CTS 9 5 6 102.936
+TX ADVER 9 4 102.998
+TX ADVER 13 4 103.343
+TX ADVER 13 4 103.573
+TX ADVER 13 4 104.099
+TX ADVER 13 4 104.306
+TX ADVER 13 4 104.514
+TX ADVER 13 4 104.855
+TX ADVER 13 4 105.287
+TX ADVER 13 4 105.604
+TX ADVER 13 4 106.22
+TX ADVER 13 4 106.468
+TX ADVER 13 4 106.669
+TX ADVER 13 4 106.929
+TX ADVER 13 4 107.13
+TX ADVER 13 4 107.442
+TX ADVER 13 4 107.745
+TX ADVER 13 4 108.074
+TX ADVER 13 4 108.388
+TX ADVER 13 4 108.829
+TX ADVER 13 4 109.104
+TX ADVER 13 4 109.375
+No.1 Transfer End 109.579
+TX ADVER 13 4 109.607
+Rx ADVER 13 1 4 109.608
+TX CTS 25 1 4 109.618
+No.3 Transfer End 109.694
+TX ADVER 145 0 109.745
+TX ADVER 13 2 109.81
+TX ADVER 13 3 109.905
+TX ADVER 145 0 109.948
+TX ADVER 21 2 110.165
+Rx ADVER 21 0 2 110.168
+TX CTS 153 0 2 110.208
+TX ADVER 21 3 110.236
+TX ADVER 21 3 110.54
+TX ADVER 21 3 110.77
+TX ADVER 21 3 111.014
+TX ADVER 21 3 111.214
+TX ADVER 21 3 111.487
+TX ADVER 21 3 111.766
+TX ADVER 21 3 112.148
+TX ADVER 21 3 112.383
+TX ADVER 21 3 113.023
+TX ADVER 21 3 113.271
+TX ADVER 21 3 113.471
+TX ADVER 21 3 113.749
+TX ADVER 21 3 114.057
+TX ADVER 21 3 114.364
+TX ADVER 21 3 114.632
+TX ADVER 21 3 115.027
+TX ADVER 21 3 115.25
+TX ADVER 21 3 115.566
+TX ADVER 21 3 115.843
+TX ADVER 21 3 116.154
+TX ADVER 21 3 116.448
+TX ADVER 21 3 116.66
+No.2 Transfer End 116.742
+TX ADVER 21 0 116.77
+TX ADVER 21 2 116.822
+TX ADVER 21 3 116.86
+TX ADVER 21 3 117.122
+Rx ADVER 21 2 3 117.123
+Rx ADVER 21 0 3 117.123
+TX CTS 21 0 3 117.133
+TX CTS 13 2 3 117.193
+No.3 Transfer End 120.273
+TX ADVER 21 3 120.285
+Rx ADVER 21 2 3 120.288
+Rx ADVER 21 0 3 120.288
+TX CTS 21 0 3 120.298
+TX CTS 13 2 3 120.358
+No.3 Transfer End 122.183
+TX ADVER 21 3 122.24
+Rx ADVER 21 2 3 122.243
+Rx ADVER 21 0 3 122.243
+TX CTS 21 0 3 122.253
+TX CTS 13 2 3 122.313
+No.3 Transfer End 123.406
+TX ADVER 21 3 123.441
+Rx ADVER 21 2 3 123.443
+Rx ADVER 21 0 3 123.443
+TX CTS 21 0 3 123.453
+TX CTS 13 2 3 123.513
+No.3 Transfer End 124.319
+TX ADVER 21 0 124.339
+TX ADVER 21 3 124.492
+Rx ADVER 21 2 3 124.493
+TX CTS 13 2 3 124.563
+TX ADVER 21 0 124.708
+No.3 Transfer End 124.905
+TX ADVER 21 0 124.962
+TX ADVER 21 3 124.985
+Rx ADVER 21 2 3 124.988
+TX CTS 13 2 3 125.058
+No.3 Transfer End 125.303
+TX ADVER 21 0 125.399
+TX ADVER 21 3 125.506
+TX ADVER 21 3 125.799
+TX ADVER 21 0 126.019
+TX ADVER 13 3 126.333
+Rx ADVER 13 0 3 126.338
+TX CTS 21 0 3 126.348
+No.3 Transfer End 128.537
+TX ADVER 13 0 128.586
+TX ADVER 13 2 128.642
+TX ADVER 13 3 128.789
+Rx ADVER 13 0 3 128.792
+TX CTS 13 0 3 128.802
+TX ADVER 13 2 128.892
+TX ADVER 13 2 129.161
+No.3 Transfer End 129.298
+TX ADVER 13 0 129.351
+TX ADVER 13 3 129.358
+TX ADVER 13 2 129.361
+TX ADVER 13 0 129.575
+TX ADVER 13 2 129.699
+TX ADVER 13 3 129.762
+TX ADVER 13 0 129.964
+TX ADVER 13 3 129.99
+Rx ADVER 13 2 3 129.991
+TX CTS 13 2 3 130.061
+No.3 Transfer End 130.498
+TX ADVER 13 2 130.565
+TX ADVER 13 2 130.778
+TX ADVER 13 0 130.828
+TX ADVER 13 3 130.853
+TX ADVER 13 2 131.003
+TX ADVER 13 0 131.088
+TX ADVER 13 3 131.091
+TX ADVER 13 0 131.468
+TX ADVER 13 2 131.681
+TX ADVER 13 3 131.687
+Rx ADVER 13 0 3 131.689
+TX CTS 13 0 3 131.699
+TX ADVER 13 2 131.905
+TX ADVER 13 2 132.129
+No.3 Transfer End 132.151
+TX ADVER 13 0 132.269
+TX ADVER 13 3 132.287
+TX ADVER 13 2 132.398
+TX ADVER 13 0 132.511
+TX ADVER 13 3 132.609
+Rx ADVER 13 2 3 132.612
+TX CTS 13 2 3 132.682
+TX ADVER 13 0 132.787
+No.3 Transfer End 132.987
+TX ADVER 13 2 133.197
+TX ADVER 13 0 133.209
+TX ADVER 13 3 133.382
+TX ADVER 13 2 133.43
+TX ADVER 13 0 133.552
+TX ADVER 13 2 133.649
+TX ADVER 13 3 133.658
+TX ADVER 13 0 133.86
+TX ADVER 13 3 133.888
+Rx ADVER 13 2 3 133.889
+TX CTS 13 2 3 133.959
+No.4 Transfer End 134.126
+TX ADVER 13 1 134.169
+TX ADVER 13 4 134.194
+TX ADVER 13 0 134.194
+No.3 Transfer End 134.256
+TX ADVER 13 2 134.381
+TX ADVER 13 1 134.48
+TX ADVER 13 4 134.484
+TX ADVER 13 3 134.484
+Rx ADVER 13 0 3 134.488
+TX CTS 13 0 3 134.498
+TX ADVER 13 2 134.697
+TX ADVER 13 1 134.713
+TX ADVER 13 4 134.838
+TX ADVER 13 1 134.929
+TX ADVER 13 2 134.932
+No.3 Transfer End 135
+TX ADVER 13 0 135.078
+TX ADVER 13 4 135.142
+Rx ADVER 13 2 4 135.146
+Rx ADVER 13 1 4 135.146
+TX CTS 13 1 4 135.156
+TX ADVER 13 3 135.166
+TX CTS 13 2 4 135.186
+TX ADVER 13 0 135.392
+TX ADVER 13 3 135.528
+TX ADVER 13 0 135.7
+TX ADVER 13 3 135.751
+No.4 Transfer End 135.773
+TX ADVER 13 2 135.777
+Rx ADVER 13 1 2 135.779
+TX ADVER 13 4 135.782
+TX CTS 13 1 2 135.849
+No.2 Transfer End 135.98
+TX ADVER 13 3 136.045
+Rx ADVER 13 2 3 136.048
+Rx ADVER 13 1 3 136.048
+Rx ADVER 13 0 3 136.048
+TX CTS 21 0 3 136.058
+TX CTS 13 1 3 136.088
+TX CTS 13 2 3 136.118
+TX ADVER 13 4 136.164
+TX ADVER 13 4 136.396
+TX ADVER 13 4 136.774
+TX ADVER 13 4 137.129
+No.3 Transfer End 137.24
+TX ADVER 13 3 137.27
+Rx ADVER 13 2 3 137.271
+Rx ADVER 13 1 3 137.271
+Rx ADVER 13 0 3 137.271
+TX CTS 13 0 3 137.281
+TX CTS 13 1 3 137.311
+TX CTS 13 2 3 137.341
+TX ADVER 13 4 137.568
+TX ADVER 13 4 137.808
+No.3 Transfer End 137.864
+TX ADVER 13 0 137.904
+TX ADVER 13 2 137.922
+TX ADVER 13 1 137.922
+TX ADVER 13 3 137.972
+No.6 Transfer End 137.974
+Rx ADVER 13 6 3 137.975
+TX ADVER 9 5 137.982
+TX CTS 9 6 3 137.985
+TX ADVER 13 0 138.192
+TX ADVER 13 4 138.234
+Rx ADVER 13 5 4 138.235
+Rx ADVER 13 2 4 138.235
+Rx ADVER 13 1 4 138.235
+TX CTS 13 1 4 138.245
+TX CTS 13 2 4 138.275
+TX CTS 9 5 4 138.305
+TX ADVER 13 0 138.4
+TX ADVER 13 0 139.041
+TX ADVER 13 0 139.34
+TX ADVER 13 0 139.677
+TX ADVER 13 0 139.981
+TX ADVER 13 0 140.224
+TX ADVER 13 0 140.685
+TX ADVER 13 0 141.044
+TX ADVER 13 0 141.401
+TX ADVER 13 0 141.707
+TX ADVER 13 0 142.153
+TX ADVER 13 0 142.526
+TX ADVER 13 0 143.316
+TX ADVER 13 0 143.608
+TX ADVER 13 0 144.323
+TX ADVER 13 0 144.532
+No.3 Transfer End 145.178
+TX ADVER 13 3 145.235
+Rx ADVER 13 0 3 145.24
+TX CTS 13 0 3 145.25
+No.3 Transfer End 145.835
+TX ADVER 13 3 145.852
+TX ADVER 13 0 145.899
+TX ADVER 5 6 146.053
+Rx ADVER 5 3 6 146.055
+TX CTS 13 3 6 146.065
+No.4 Transfer End 146.228
+TX ADVER 5 5 146.229
+Rx ADVER 5 4 5 146.23
+Rx ADVER 5 2 5 146.23
+TX CTS 13 2 5 146.24
+TX CTS 13 4 5 146.3
+TX ADVER 13 1 146.42
+TX ADVER 13 0 146.437
+TX ADVER 13 1 146.785
+TX ADVER 13 0 146.876
+TX ADVER 13 1 147.224
+TX ADVER 13 1 147.442
+TX ADVER 13 0 147.64
+TX ADVER 13 1 147.664
+TX ADVER 13 1 147.981
+TX ADVER 13 0 148.365
+TX ADVER 13 1 148.423
+TX ADVER 13 1 149.151
+TX ADVER 13 0 149.249
+TX ADVER 13 1 149.405
+TX ADVER 13 1 149.935
+TX ADVER 13 0 150.299
+TX ADVER 13 0 151.099
+TX ADVER 13 1 151.405
+TX ADVER 13 0 151.529
+TX ADVER 13 1 152.181
+TX ADVER 13 0 153.124
+TX ADVER 13 0 153.736
+TX ADVER 13 1 153.844
+TX ADVER 13 0 154.674
+TX ADVER 13 1 154.821
+No.6 Transfer End 155.514
+TX ADVER 5 6 155.633
+No.5 Transfer End 155.638
+TX ADVER 5 3 155.688
+Rx ADVER 5 1 3 155.689
+Rx ADVER 5 0 3 155.689
+TX ADVER 5 2 155.69
+TX CTS 13 0 3 155.699
+TX CTS 13 1 3 155.729
+TX ADVER 5 5 155.76
+TX ADVER 5 4 155.872
+TX ADVER 5 6 155.962
+TX ADVER 5 2 155.967
+TX ADVER 5 4 156.091
+TX ADVER 5 5 156.255
+TX ADVER 5 2 156.258
+TX ADVER 5 6 156.343
+TX ADVER 5 5 156.476
+TX ADVER 5 4 156.496
+TX ADVER 5 2 156.517
+TX ADVER 5 5 156.691
+TX ADVER 5 4 156.714
+TX ADVER 5 6 156.759
+TX ADVER 5 2 156.851
+TX ADVER 5 2 157.058
+TX ADVER 5 4 157.075
+TX ADVER 5 5 157.132
+TX ADVER 5 6 157.205
+TX ADVER 5 4 157.275
+TX ADVER 5 2 157.315
+TX ADVER 5 5 157.378
+TX ADVER 5 6 157.514
+TX ADVER 5 4 157.63
+TX ADVER 5 2 157.742
+TX ADVER 5 5 157.785
+TX ADVER 5 6 157.873
+TX ADVER 5 4 157.907
+TX ADVER 5 2 157.952
+TX ADVER 5 5 158.151
+TX ADVER 5 2 158.165
+TX ADVER 5 4 158.267
+TX ADVER 5 2 158.426
+TX ADVER 5 5 158.445
+TX ADVER 5 6 158.446
+TX ADVER 5 4 158.617
+TX ADVER 5 5 158.661
+TX ADVER 5 2 158.711
+TX ADVER 5 6 158.786
+TX ADVER 5 4 158.928
+TX ADVER 5 5 158.988
+TX ADVER 5 6 158.989
+TX ADVER 5 2 159.211
+TX ADVER 5 5 159.254
+TX ADVER 5 6 159.451
+TX ADVER 5 4 159.518
+TX ADVER 5 5 159.626
+TX ADVER 5 2 159.674
+TX ADVER 5 4 159.745
+TX ADVER 5 2 159.876
+TX ADVER 5 4 160.198
+TX ADVER 5 2 160.203
+TX ADVER 5 5 160.364
+TX ADVER 5 6 160.387
+TX ADVER 5 4 160.445
+TX ADVER 5 2 160.599
+TX ADVER 5 5 160.607
+TX ADVER 5 4 160.646
+TX ADVER 5 2 160.843
+TX ADVER 5 4 160.849
+No.3 Transfer End 160.968
+TX ADVER 5 3 160.978
+TX ADVER 5 0 161.017
+TX ADVER 5 4 161.049
+TX ADVER 5 1 161.099
+TX ADVER 5 3 161.259
+TX ADVER 5 0 161.337
+TX ADVER 5 3 161.54
+TX ADVER 5 1 161.548
+TX ADVER 5 0 161.658
+TX ADVER 5 6 161.923
+TX ADVER 5 3 162.028
+TX ADVER 5 2 162.097
+TX ADVER 5 1 162.194
+TX ADVER 5 3 162.348
+TX ADVER 5 4 162.361
+TX ADVER 5 0 162.422
+TX ADVER 5 1 162.562
+TX ADVER 5 3 162.773
+TX ADVER 5 1 162.792
+TX ADVER 5 0 162.817
+TX ADVER 5 1 163.028
+TX ADVER 5 3 163.162
+TX ADVER 5 5 163.176
+TX ADVER 5 0 163.458
+TX ADVER 5 0 163.658
+TX ADVER 5 6 163.74
+TX ADVER 5 1 163.931
+TX ADVER 5 5 164.115
+TX ADVER 5 3 164.406
+TX ADVER 5 2 164.427
+TX ADVER 5 6 164.525
+TX ADVER 5 3 164.701
+TX ADVER 5 5 164.747
+TX ADVER 5 1 164.803
+TX ADVER 5 0 164.818
+TX ADVER 5 1 165.071
+TX ADVER 5 4 165.261
+TX ADVER 5 1 165.286
+TX ADVER 5 3 165.411
+TX ADVER 5 1 165.733
+TX ADVER 5 0 165.909
+TX ADVER 5 6 166.285
+TX ADVER 5 1 166.347
+TX ADVER 5 3 166.419
+TX ADVER 5 5 167.284
+TX ADVER 5 1 167.386
+TX ADVER 5 0 167.504
+TX ADVER 5 2 167.557
+TX ADVER 5 3 167.879
+TX ADVER 5 4 168.012
+TX ADVER 5 6 168.168
+TX ADVER 5 1 168.3
+TX ADVER 5 0 168.447
+TX ADVER 5 5 168.684
+TX ADVER 5 3 169.113
+TX ADVER 5 2 169.209
+TX ADVER 5 6 169.502
+TX ADVER 5 4 169.829
+TX ADVER 5 2 169.892
+TX ADVER 5 1 170.052
+TX ADVER 5 0 170.177
+TX ADVER 5 3 170.783
+TX ADVER 5 4 170.926
+TX ADVER 5 6 171.013
+TX ADVER 5 5 171.121
+TX ADVER 5 2 171.172
+TX ADVER 5 1 171.548
+TX ADVER 5 0 171.703
+TX ADVER 5 3 171.973
+TX ADVER 5 6 172.743
+TX ADVER 5 1 173.1
+TX ADVER 5 2 173.434
+TX ADVER 5 0 173.562
+TX ADVER 5 3 173.877
+TX ADVER 5 2 174.102
+TX ADVER 5 4 174.33
+TX ADVER 5 5 174.522
+TX ADVER 5 6 174.55
+TX ADVER 5 1 174.677
+TX ADVER 5 4 174.793
+TX ADVER 5 1 174.877
+TX ADVER 5 0 175.247
+TX ADVER 5 5 175.757
+TX ADVER 5 5 176.029
+TX ADVER 5 4 176.241
+TX ADVER 5 0 176.455
+TX ADVER 5 3 176.499
+TX ADVER 5 6 177.258
+TX ADVER 5 1 177.297
+TX ADVER 5 3 177.32
+TX ADVER 5 3 177.577
+TX ADVER 5 2 177.664
+TX ADVER 5 6 177.768
+TX ADVER 5 5 178.479
+TX ADVER 5 0 178.491
+TX ADVER 5 2 178.536
+TX ADVER 5 4 178.952
+TX ADVER 5 1 178.977
+TX ADVER 5 6 179.624
+TX ADVER 5 3 179.697
+TX ADVER 5 0 180.527
+TX ADVER 5 2 180.65
+TX ADVER 5 5 180.746
+TX ADVER 5 0 181.354
+TX ADVER 5 1 181.487
+TX ADVER 5 4 181.546
+TX ADVER 5 2 181.885
+TX ADVER 5 3 182.323
+TX ADVER 5 1 182.343
+TX ADVER 5 6 182.524
+TX ADVER 5 4 182.659
+TX ADVER 5 3 184.14
+TX ADVER 5 2 184.177
+TX ADVER 5 4 184.209
+TX ADVER 5 0 184.224
+TX ADVER 5 6 184.479
+TX ADVER 5 5 184.591
+TX ADVER 5 4 185.897
+TX ADVER 5 1 186.071
+TX ADVER 5 4 186.385
+TX ADVER 5 1 186.608
+TX ADVER 5 4 186.635
+TX ADVER 5 3 186.858
+TX ADVER 5 0 187.007
+TX ADVER 5 5 187.017
+TX ADVER 5 1 187.12
+TX ADVER 5 3 187.706
+TX ADVER 5 4 187.957
+TX ADVER 5 2 188.601
+TX ADVER 5 6 188.689
+TX ADVER 5 1 188.738
+TX ADVER 5 0 189.022
+TX ADVER 5 2 189.098
+TX ADVER 5 3 189.706
+TX ADVER 5 6 189.771
+TX ADVER 5 5 190.523
+TX ADVER 5 6 190.623
+TX ADVER 5 1 191.416
+TX ADVER 5 2 191.593
+TX ADVER 5 3 191.856
+TX ADVER 5 0 191.878
+TX ADVER 5 0 192.33
+TX ADVER 5 4 192.462
+TX ADVER 5 3 192.826
+TX ADVER 5 5 193.603
+TX ADVER 5 6 194.063
+TX ADVER 5 1 194.269
+TX ADVER 5 3 194.874
+TX ADVER 5 2 195.048
+TX ADVER 5 0 196.018
+TX ADVER 5 3 196.292
+TX ADVER 5 0 196.296
+TX ADVER 5 1 196.449
+TX ADVER 5 5 197.244
+TX ADVER 5 4 197.684
+TX ADVER 5 1 197.765
+TX ADVER 5 6 197.797
+TX ADVER 5 0 198.075
+TX ADVER 5 5 199.604
+TX ADVER 5 2 199.676
+TX ADVER 5 3 200.002
+TX ADVER 5 4 200.27
+TX ADVER 5 1 200.317
+TX ADVER 5 3 200.853
+TX ADVER 5 5 201.338
+TX ADVER 5 3 201.389
+TX ADVER 5 2 201.874
+TX ADVER 5 6 201.885
+TX ADVER 5 0 202.139
+TX ADVER 5 6 202.58
+TX ADVER 5 2 203.214
+TX ADVER 5 1 203.586
+TX ADVER 5 6 204.361
+TX ADVER 5 2 205.169
+TX ADVER 5 3 205.45
+TX ADVER 5 4 205.657
+TX ADVER 5 1 205.979
+TX ADVER 5 0 206.124
+TX ADVER 5 5 206.128
+TX ADVER 5 2 206.749
+TX ADVER 5 5 207.588
+TX ADVER 5 6 208.394
+TX ADVER 5 4 208.607
+TX ADVER 5 1 208.699
+TX ADVER 5 5 209.408
+TX ADVER 5 0 209.924
+TX ADVER 5 4 209.947
+TX ADVER 5 3 210.087
+TX ADVER 5 4 210.454
+TX ADVER 5 4 210.906
+TX ADVER 5 6 211.294
+TX ADVER 5 3 211.599
+TX ADVER 5 2 211.808
+TX ADVER 5 1 211.869
+TX ADVER 5 6 212.049
+TX ADVER 5 0 213.053
+TX ADVER 5 2 213.583
+TX ADVER 5 0 213.973
+TX ADVER 5 5 214.936
+TX ADVER 5 3 215.363
+TX ADVER 5 1 216.065
+TX ADVER 5 0 216.302
+TX ADVER 5 6 216.467
+TX ADVER 5 4 216.589
+TX ADVER 5 5 216.618
+TX ADVER 5 0 216.757
+TX ADVER 5 0 217.692
+TX ADVER 5 4 220.023
+TX ADVER 5 2 220.168
+TX ADVER 5 0 220.322
+TX ADVER 5 3 220.392
+TX ADVER 5 1 220.54
+TX ADVER 5 3 220.877
+TX ADVER 5 6 221.23
+TX ADVER 5 5 221.323
+TX ADVER 5 4 221.91
+TX ADVER 5 5 223.323
+TX ADVER 5 0 224.351
+TX ADVER 5 3 225.055
+TX ADVER 5 1 225.069
+TX ADVER 5 6 225.75
+TX ADVER 5 4 226.595
+TX ADVER 5 2 226.638
+TX ADVER 5 4 226.866
+TX ADVER 5 5 228.689
+TX ADVER 5 0 229.282
+TX ADVER 5 6 230.193
+TX ADVER 5 5 230.275
+TX ADVER 5 1 230.549
+TX ADVER 5 2 230.551
+TX ADVER 5 3 230.715
+TX ADVER 5 5 231.894
+TX ADVER 5 1 232.102
+TX ADVER 5 2 233.028
+TX ADVER 5 4 233.834
+TX ADVER 5 0 234.045
+TX ADVER 5 6 234.047
+TX ADVER 5 3 234.42
+TX ADVER 5 1 234.759
+TX ADVER 5 5 235.13
+TX ADVER 5 0 235.205
+TX ADVER 5 2 235.766
+TX ADVER 5 3 237.203
+TX ADVER 5 6 237.537
+TX ADVER 5 0 239.034
+TX ADVER 5 2 239.134
+TX ADVER 5 6 239.585
+TX ADVER 5 1 240.764
+TX ADVER 5 4 241.09
+TX ADVER 5 5 241.742
+TX ADVER 5 3 241.854
+TX ADVER 5 6 242.62
+TX ADVER 5 2 242.862
+TX ADVER 5 0 243.329
+TX ADVER 5 4 243.69
+TX ADVER 5 1 244.198
+TX ADVER 5 6 246.201
+TX ADVER 5 0 246.238
+TX ADVER 5 5 247.531
+TX ADVER 5 3 247.73
+TX ADVER 5 1 248.043
+TX ADVER 5 2 249.287
+TX ADVER 5 0 249.804
+TX ADVER 5 1 250.52
+TX ADVER 5 3 250.63
+TX ADVER 5 4 250.928
+TX ADVER 5 6 251.265
+TX ADVER 5 5 253.16
+TX ADVER 5 6 254.201
+TX ADVER 5 5 254.8
+TX ADVER 5 3 255.522
+TX ADVER 5 2 255.836
+TX ADVER 5 1 255.867
+TX ADVER 5 0 255.876
+TX ADVER 5 1 257.579
+TX ADVER 5 4 257.68
+TX ADVER 5 6 259.84
+TX ADVER 5 3 260.163
+TX ADVER 5 3 260.435
+TX ADVER 5 5 260.659
+TX ADVER 5 5 261.609
+TX ADVER 5 0 261.665
+TX ADVER 5 1 262.115
+TX ADVER 5 6 262.29
+TX ADVER 5 2 262.432
+TX ADVER 5 1 262.915
+TX ADVER 5 1 263.192
+TX ADVER 5 6 263.638
+TX ADVER 5 4 264.796
+TX ADVER 5 4 265.077
+TX ADVER 5 6 266.412
+TX ADVER 5 3 266.883
+TX ADVER 5 0 266.941
+TX ADVER 5 2 267.641
+TX ADVER 5 5 268.159
+TX ADVER 5 2 268.651
+TX ADVER 5 1 268.852
+TX ADVER 5 0 269.085
+TX ADVER 5 3 269.708
+TX ADVER 5 0 272.446
+TX ADVER 5 6 272.495
+TX ADVER 5 5 272.805
+TX ADVER 5 4 273.197
+TX ADVER 5 0 273.921
+TX ADVER 5 6 274.396
+TX ADVER 5 3 274.804
+TX ADVER 5 5 275.231
+TX ADVER 5 3 275.55
+TX ADVER 5 1 276.525
+TX ADVER 5 2 276.771
+TX ADVER 5 4 277.345
+TX ADVER 5 3 278.691
+TX ADVER 5 6 279.381
+TX ADVER 5 0 281.082
+TX ADVER 5 1 281.342
+TX ADVER 5 4 281.649
+TX ADVER 5 0 281.672
+TX ADVER 5 5 281.749
+TX ADVER 5 4 281.849
+TX ADVER 5 2 282.347
+TX ADVER 5 0 282.429
+TX ADVER 5 6 282.605
+TX ADVER 5 6 283.147
+TX ADVER 5 1 285.914
+TX ADVER 5 3 286.1
+TX ADVER 5 6 286.914
+TX ADVER 5 2 287.42
+TX ADVER 5 3 287.455
+TX ADVER 5 5 287.889
+TX ADVER 5 0 288.137
+TX ADVER 5 0 288.832
+TX ADVER 5 4 289.218
+TX ADVER 5 1 289.81
+TX ADVER 5 4 290.498
+TX ADVER 5 0 290.964
+TX ADVER 5 2 291.187
+TX ADVER 5 0 291.42
+TX ADVER 5 3 292.443
+TX ADVER 5 0 293.882
+TX ADVER 5 2 295.104
+TX ADVER 5 3 295.208
+TX ADVER 5 5 295.649
+TX ADVER 5 6 295.787
+TX ADVER 5 1 297.107
+TX ADVER 5 4 297.194
+TX ADVER 5 6 297.877
+TX ADVER 5 3 299.149
+TX ADVER 5 0 301.074
+TX ADVER 5 3 301.827
+TX ADVER 5 5 302.347
+TX ADVER 5 2 302.864
+TX ADVER 5 1 304.267
+TX ADVER 5 0 304.604
+TX ADVER 5 4 304.927
+TX ADVER 5 6 304.939
+TX ADVER 5 6 305.976
+TX ADVER 5 3 306.257
+TX ADVER 5 5 307.593
+TX ADVER 5 4 308.529
+TX ADVER 5 6 308.633
+TX ADVER 5 1 310.131
+TX ADVER 5 0 310.568
+TX ADVER 5 1 310.781
+TX ADVER 5 2 311.665
+TX ADVER 5 3 314.052
+TX ADVER 5 1 314.092
+TX ADVER 5 0 315.883
+TX ADVER 5 6 315.937
+TX ADVER 5 5 316.554
+TX ADVER 5 3 316.763
+TX ADVER 5 4 316.793
+TX ADVER 5 1 317.826
+TX ADVER 5 5 318.284
+TX ADVER 5 2 320.142
+TX ADVER 5 2 321.098
+TX ADVER 5 6 321.402
+TX ADVER 5 3 322.538
+TX ADVER 5 0 323.549
+TX ADVER 5 1 323.79
+TX ADVER 5 1 324.278
+TX ADVER 5 4 325.378
+TX ADVER 5 5 326.17
+TX ADVER 5 4 328.053
+TX ADVER 5 6 328.136
+TX ADVER 5 2 329.842
+TX ADVER 5 0 330.085
+TX ADVER 5 0 330.577
+TX ADVER 5 5 330.648
+TX ADVER 5 3 330.802
+TX ADVER 5 3 331.197
+TX ADVER 5 6 332.055
+TX ADVER 5 1 332.278
+TX ADVER 5 4 332.776
+TX ADVER 5 0 337.014
+TX ADVER 5 5 337.085
+TX ADVER 5 1 338.022
+TX ADVER 5 2 338.135
+TX ADVER 5 4 338.28
+TX ADVER 5 2 339.424
+TX ADVER 5 0 339.626
+TX ADVER 5 3 340.901
+TX ADVER 5 1 340.936
+TX ADVER 5 6 341.333
+TX ADVER 5 5 341.701
+TX ADVER 5 0 342.784
+TX ADVER 5 6 345.466
+TX ADVER 5 0 345.675
+TX ADVER 5 4 346.139
+TX ADVER 5 4 347.389
+TX ADVER 5 2 347.865
+TX ADVER 5 1 348.174
+TX ADVER 5 5 348.336
+TX ADVER 5 3 349.342
+TX ADVER 5 5 350.219
+TX ADVER 5 2 351.431
+TX ADVER 5 4 352.168
+TX ADVER 5 1 352.41
+TX ADVER 5 6 353.646
+TX ADVER 5 0 354.38
+TX ADVER 5 1 356.39
+TX ADVER 5 2 357.323
+TX ADVER 5 3 357.702
+TX ADVER 5 5 358.861
+TX ADVER 5 4 359.172
+TX ADVER 5 6 360.981
+TX ADVER 5 0 362.887
+TX ADVER 5 5 363.549
+TX ADVER 5 2 364.138
+TX ADVER 5 3 364.94
+TX ADVER 5 6 365.501
+TX ADVER 5 1 365.856
+TX ADVER 5 4 366.38
+TX ADVER 5 3 366.505
+TX ADVER 5 0 367.191
+TX ADVER 5 6 368.11
+TX ADVER 5 1 369.188
+TX ADVER 5 6 369.42
+TX ADVER 5 2 369.876
+TX ADVER 5 3 370.965
+TX ADVER 5 5 373.271
+TX ADVER 5 3 373.865
+TX ADVER 5 6 374.683
+TX ADVER 5 0 374.837
+TX ADVER 5 1 376.615
+TX ADVER 5 3 376.803
+TX ADVER 5 4 377.125
+TX ADVER 5 5 377.356
+TX ADVER 5 1 377.481
+TX ADVER 5 4 378.563
+TX ADVER 5 5 379.473
+---- VCDServer ---- 
+Server transfered 30001 pkts.
+
+---- Client NO.0 stops ----- 
+0
+state is TRANSFER_WAIT_PHASE 
+It received 30000 packets.
+
+---- Client NO.1 stops ----- 
+0
+state is TRANSFER_WAIT_PHASE 
+It received 30000 packets.
+
+---- Client NO.2 stops ----- 
+0
+state is TRANSFER_WAIT_PHASE 
+It received 30000 packets.
+
+---- Client NO.3 stops ----- 
+0
+state is TRANSFER_WAIT_PHASE 
+It received 30000 packets.
+
+---- Client NO.4 stops ----- 
+0
+state is TRANSFER_WAIT_PHASE 
+It received 30000 packets.
+
+---- Client NO.5 stops ----- 
+0
+state is TRANSFER_WAIT_PHASE 
+It received 30000 packets.
+
+---- Client NO.6 stops ----- 
+0
+state is TRANSFER_WAIT_PHASE 
+It received 30000 packets.
+
+TX ADVER 5 2 380.012
+NS EXITING...

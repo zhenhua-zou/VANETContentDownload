@@ -1,0 +1,6921 @@
+INITIALIZE THE LIST xListHead
+Loading mobility pattern...
+Starting Simulation...
+num_nodes is set 9
+group manager starts
+SORTING LISTS ...DONE!
+6 sendRequest 48
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+TX ADVER 9 6 107.737
+TX ADVER 9 6 108.015
+TX ADVER 9 6 108.242
+TX ADVER 9 6 108.838
+TX ADVER 9 6 109.63
+TX ADVER 9 6 109.938
+TX ADVER 9 6 110.569
+TX ADVER 9 6 110.961
+TX ADVER 9 6 111.903
+TX ADVER 13 5 112.634
+Rx ADVER 13 6 5 112.635
+TX CTS 13 6 5 112.705
+TX ADVER 13 4 117.56
+No.5 Transfer End 117.758
+TX ADVER 9 6 117.795
+Rx ADVER 9 5 6 117.796
+Rx ADVER 9 4 6 117.796
+TX CTS 9 4 6 117.836
+TX CTS 9 5 6 117.866
+TX ADVER 21 3 122.688
+TX ADVER 21 3 123.077
+TX ADVER 21 3 123.304
+TX ADVER 21 3 123.585
+TX ADVER 21 3 123.886
+TX ADVER 21 3 124.178
+TX ADVER 21 3 124.485
+TX ADVER 21 3 124.75
+TX ADVER 21 3 125.124
+TX ADVER 21 3 125.403
+TX ADVER 21 3 125.672
+TX ADVER 21 3 125.899
+TX ADVER 21 3 126.176
+TX ADVER 21 3 126.431
+TX ADVER 21 3 126.662
+TX ADVER 21 3 126.902
+TX ADVER 21 3 127.157
+No.6 Transfer End 127.535
+TX ADVER 9 6 127.568
+Rx ADVER 9 3 6 127.569
+TX CTS 17 3 6 127.579
+TX ADVER 13 2 127.631
+Rx ADVER 13 4 2 127.632
+Rx ADVER 13 5 2 127.632
+TX CTS 13 5 2 127.642
+TX CTS 13 4 2 127.672
+TX ADVER 13 1 132.508
+TX ADVER 13 1 132.863
+TX ADVER 13 1 133.213
+TX ADVER 13 1 133.593
+TX ADVER 13 1 133.891
+TX ADVER 13 1 134.132
+TX ADVER 13 1 134.767
+TX ADVER 13 1 135.376
+TX ADVER 13 1 135.785
+TX ADVER 13 1 136.372
+TX ADVER 13 1 136.68
+TX ADVER 13 1 136.975
+TX ADVER 13 0 137.701
+Rx ADVER 13 1 0 137.707
+TX CTS 13 1 0 137.777
+No.6 Transfer End 147.492
+TX ADVER 9 6 147.518
+TX ADVER 17 3 147.668
+TX ADVER 9 6 147.856
+TX ADVER 17 3 147.995
+TX ADVER 9 6 148.096
+TX ADVER 17 3 148.313
+Rx ADVER 17 6 3 148.314
+TX CTS 21 6 3 148.324
+No.3 Transfer End 164.832
+TX ADVER 49 6 165.134
+TX ADVER 17 3 165.22
+TX ADVER 17 3 165.441
+Rx ADVER 17 6 3 165.442
+TX CTS 45 6 3 165.478
+No.2 Transfer End 166.296
+TX ADVER 21 2 166.32
+Rx ADVER 21 4 2 166.322
+Rx ADVER 21 5 2 166.322
+TX CTS 685 5 2 166.35
+TX CTS 13 4 2 166.362
+No.2 Transfer End 169.788
+TX ADVER 17 5 169.828
+Rx ADVER 17 2 5 169.83
+TX CTS 9 2 5 169.866
+TX ADVER 17 4 169.927
+TX ADVER 17 4 170.392
+TX ADVER 17 4 170.798
+TX ADVER 17 4 171.442
+TX ADVER 17 4 171.778
+TX ADVER 17 4 172.096
+TX ADVER 17 4 172.387
+No.3 Transfer End 172.52
+TX ADVER 17 3 172.863
+Rx ADVER 17 4 3 172.864
+Rx ADVER 17 6 3 172.864
+TX CTS 13 6 3 172.877
+TX CTS 13 4 3 172.937
+No.0 Transfer End 175.062
+No.3 Transfer End 175.066
+TX ADVER 121 6 175.094
+TX ADVER 33 4 175.097
+Rx ADVER 33 1 4 175.099
+Rx ADVER 33 0 4 175.099
+TX CTS 9 0 4 175.111
+TX ADVER 25 3 175.113
+TX CTS 13 1 4 175.135
+TX ADVER 25 3 175.319
+Rx ADVER 25 6 3 175.323
+TX CTS 125 6 3 175.333
+No.3 Transfer End 177.004
+TX ADVER 25 3 177.109
+TX ADVER 25 3 177.734
+TX ADVER 25 3 178.023
+TX ADVER 25 3 178.37
+TX ADVER 25 3 178.677
+TX ADVER 25 3 178.963
+TX ADVER 25 3 179.185
+TX ADVER 25 3 179.681
+TX ADVER 25 3 179.916
+TX ADVER 25 3 180.116
+TX ADVER 25 3 180.584
+TX ADVER 25 3 180.882
+TX ADVER 25 3 181.171
+TX ADVER 25 3 181.428
+TX ADVER 17 0 181.471
+TX ADVER 25 3 181.679
+Rx ADVER 25 0 3 181.682
+TX CTS 13 0 3 181.718
+No.3 Transfer End 212.571
+TX ADVER 25 3 212.589
+TX ADVER 9 0 212.717
+TX ADVER 25 3 212.891
+TX ADVER 25 6 213.037
+TX ADVER 25 3 213.112
+TX ADVER 9 0 213.163
+TX ADVER 25 6 213.266
+TX ADVER 9 0 213.615
+Rx ADVER 9 3 0 213.618
+TX CTS 21 3 0 213.628
+TX ADVER 25 6 213.674
+TX ADVER 25 6 214.286
+TX ADVER 25 6 214.697
+TX ADVER 25 6 215.154
+TX ADVER 25 6 215.407
+TX ADVER 25 6 215.963
+TX ADVER 25 6 216.247
+TX ADVER 25 6 216.581
+TX ADVER 25 6 217.27
+TX ADVER 25 6 217.477
+TX ADVER 25 6 218.034
+TX ADVER 25 6 218.298
+TX ADVER 25 6 218.656
+TX ADVER 25 6 219.449
+TX ADVER 25 6 219.861
+TX ADVER 25 6 220.147
+TX ADVER 25 6 220.408
+TX ADVER 25 6 220.68
+TX ADVER 25 6 220.912
+TX ADVER 25 6 221.168
+TX ADVER 25 6 221.572
+TX ADVER 25 6 221.876
+TX ADVER 25 6 222.337
+TX ADVER 25 6 222.694
+TX ADVER 25 6 223.719
+TX ADVER 25 6 223.955
+TX ADVER 25 6 224.163
+TX ADVER 25 6 224.543
+No.0 Transfer End 224.722
+TX ADVER 9 3 224.73
+TX ADVER 9 0 224.76
+TX ADVER 25 6 224.78
+TX ADVER 9 3 224.944
+TX ADVER 25 6 225.081
+TX ADVER 9 0 225.089
+TX ADVER 9 3 225.165
+TX ADVER 25 6 225.311
+TX ADVER 9 3 225.501
+TX ADVER 25 6 225.574
+TX ADVER 9 0 225.721
+TX ADVER 25 6 225.837
+TX ADVER 9 3 225.929
+TX ADVER 25 6 226.1
+TX ADVER 9 3 226.26
+TX ADVER 9 0 226.461
+TX ADVER 9 3 226.806
+Rx ADVER 9 6 3 226.807
+TX CTS 21 6 3 226.817
+TX ADVER 9 0 226.833
+TX ADVER 9 0 227.149
+TX ADVER 9 0 228.314
+TX ADVER 9 0 228.797
+TX ADVER 9 0 229.059
+TX ADVER 9 0 229.386
+TX ADVER 9 0 230.013
+TX ADVER 9 0 230.768
+TX ADVER 9 0 231.125
+TX ADVER 9 0 231.632
+TX ADVER 9 0 232.508
+TX ADVER 9 0 232.747
+TX ADVER 9 0 233.176
+TX ADVER 9 0 236.153
+TX ADVER 9 0 236.869
+TX ADVER 9 0 237.489
+TX ADVER 9 0 237.82
+6 sendRequest 238
+TX ADVER 9 0 238.147
+No.3 Transfer End 238.526
+TX ADVER 9 3 238.595
+TX ADVER 9 3 238.86
+TX ADVER 9 3 239.071
+TX ADVER 9 0 239.354
+TX ADVER 9 3 239.376
+TX ADVER 9 3 239.827
+TX ADVER 9 0 239.878
+TX ADVER 9 3 240.225
+TX ADVER 9 3 240.433
+TX ADVER 9 3 240.801
+TX ADVER 9 0 240.94
+TX ADVER 9 3 241.443
+TX ADVER 9 3 241.653
+TX ADVER 9 3 241.884
+TX ADVER 9 3 242.085
+TX ADVER 9 3 242.316
+TX ADVER 9 3 242.588
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 0 243.051
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 3 243.065
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 3 243.329
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 3 243.558
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 3 243.786
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 3 244.329
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 3 244.607
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 3 244.968
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 3 245.306
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 3 245.536
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 3 246.189
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 3 246.55
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 0 246.734
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 3 246.876
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 3 247.111
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 3 247.351
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+overhear collision!!!!!!!!!
+8
+TX ADVER 9 0 247.69
+TX ADVER 9 2 247.828
+TX ADVER 9 1 247.859
+TX ADVER 9 3 248.03
+TX ADVER 9 1 248.188
+TX ADVER 9 2 248.283
+TX ADVER 9 1 248.721
+TX ADVER 9 3 248.815
+TX ADVER 9 2 248.856
+TX ADVER 9 2 249.218
+TX ADVER 9 1 249.275
+TX ADVER 9 0 249.543
+TX ADVER 9 2 249.928
+TX ADVER 9 1 250
+TX ADVER 9 2 250.515
+TX ADVER 9 1 250.74
+TX ADVER 9 2 250.883
+TX ADVER 9 3 251.433
+TX ADVER 9 2 251.479
+TX ADVER 9 1 251.591
+TX ADVER 9 2 252.327
+TX ADVER 9 0 252.713
+TX ADVER 9 1 252.967
+TX ADVER 9 2 253.172
+TX ADVER 9 1 253.545
+TX ADVER 9 2 254.412
+TX ADVER 9 1 254.735
+TX ADVER 9 0 254.866
+TX ADVER 9 1 255.282
+TX ADVER 9 2 255.296
+TX ADVER 9 0 255.786
+TX ADVER 9 2 257.153
+TX ADVER 9 1 257.246
+TX ADVER 9 1 258.83
+TX ADVER 9 1 259.933
+TX ADVER 9 0 260.887
+TX ADVER 9 1 262.338
+TX ADVER 9 0 263.433
+TX ADVER 9 6 297.688
+TX ADVER 9 6 298.026
+TX ADVER 9 6 298.235
+TX ADVER 9 6 298.885
+TX ADVER 9 6 299.212
+TX ADVER 9 6 299.556
+TX ADVER 9 6 300.449
+TX ADVER 9 6 301.585
+TX ADVER 9 6 302.231
+TX ADVER 9 5 302.518
+Rx ADVER 9 6 5 302.519
+TX CTS 13 6 5 302.589
+TX ADVER 9 4 307.56
+TX ADVER 9 4 308.031
+TX ADVER 9 4 308.255
+TX ADVER 9 4 308.562
+TX ADVER 9 4 308.767
+TX ADVER 9 4 308.99
+TX ADVER 9 4 309.449
+TX ADVER 9 4 309.679
+TX ADVER 9 4 309.895
+TX ADVER 9 4 310.347
+TX ADVER 9 4 310.573
+TX ADVER 9 4 310.926
+TX ADVER 9 4 311.237
+TX ADVER 9 4 311.669
+TX ADVER 9 4 312.019
+TX ADVER 9 4 312.261
+TX ADVER 9 4 312.524
+TX ADVER 17 3 312.651
+TX ADVER 9 4 312.729
+TX ADVER 17 3 312.895
+TX ADVER 9 4 312.948
+TX ADVER 17 3 313.147
+Rx ADVER 17 4 3 313.149
+TX CTS 13 4 3 313.219
+No.5 Transfer End 316.093
+TX ADVER 17 5 316.138
+TX ADVER 17 6 316.221
+TX ADVER 17 5 316.383
+TX ADVER 17 6 316.438
+TX ADVER 17 5 316.608
+TX ADVER 17 6 316.65
+TX ADVER 17 5 316.962
+TX ADVER 17 6 316.99
+TX ADVER 17 5 317.193
+TX ADVER 17 6 317.305
+TX ADVER 17 5 317.417
+TX ADVER 17 2 317.672
+Rx ADVER 17 5 2 317.675
+TX CTS 21 5 2 317.685
+TX ADVER 17 6 317.931
+TX ADVER 17 6 318.464
+TX ADVER 17 6 318.847
+TX ADVER 17 6 319.085
+TX ADVER 17 6 319.904
+TX ADVER 17 6 320.591
+TX ADVER 17 6 320.901
+TX ADVER 17 6 321.199
+No.3 Transfer End 321.245
+TX ADVER 9 4 321.33
+Rx ADVER 9 3 4 321.333
+TX CTS 13 3 4 321.403
+TX ADVER 17 6 321.605
+TX ADVER 17 6 322.085
+TX ADVER 17 6 322.473
+TX ADVER 17 1 322.591
+TX ADVER 17 6 322.701
+TX ADVER 17 1 323.217
+TX ADVER 17 6 323.27
+TX ADVER 17 1 323.432
+TX ADVER 17 6 323.605
+TX ADVER 17 1 323.698
+TX ADVER 17 1 323.939
+TX ADVER 17 6 324.382
+TX ADVER 17 1 324.417
+TX ADVER 17 1 324.642
+No.4 Transfer End 324.686
+TX ADVER 9 4 324.708
+Rx ADVER 9 6 4 324.713
+TX CTS 13 6 4 324.753
+TX ADVER 9 3 324.811
+TX ADVER 9 3 325.012
+Rx ADVER 9 1 3 325.013
+TX CTS 13 1 3 325.053
+TX ADVER 25 0 327.667
+TX ADVER 25 0 327.969
+TX ADVER 25 0 328.416
+TX ADVER 25 0 329.435
+TX ADVER 25 0 329.792
+TX ADVER 25 0 330.204
+TX ADVER 25 0 330.415
+TX ADVER 25 0 330.63
+TX ADVER 25 0 330.939
+TX ADVER 25 0 331.415
+TX ADVER 25 0 331.632
+TX ADVER 25 0 332.08
+TX ADVER 25 0 332.281
+TX ADVER 25 0 332.693
+TX ADVER 25 0 333.332
+TX ADVER 25 0 333.76
+TX ADVER 25 0 334.012
+TX ADVER 25 0 334.301
+TX ADVER 25 0 334.747
+TX ADVER 25 0 335.211
+TX ADVER 25 0 335.551
+TX ADVER 25 0 335.88
+TX ADVER 25 0 336.102
+No.4 Transfer End 336.142
+TX ADVER 9 6 336.319
+TX ADVER 25 0 336.378
+TX ADVER 9 4 336.403
+TX ADVER 9 6 336.535
+TX ADVER 25 0 336.651
+TX ADVER 9 4 336.658
+TX ADVER 9 6 336.965
+TX ADVER 25 0 337.02
+TX ADVER 9 4 337.076
+TX ADVER 25 0 337.222
+TX ADVER 9 4 337.354
+Rx ADVER 9 6 4 337.358
+TX CTS 13 6 4 337.398
+TX ADVER 25 0 337.433
+TX ADVER 25 0 337.647
+No.4 Transfer End 337.819
+TX ADVER 9 4 337.82
+TX ADVER 25 0 337.908
+TX ADVER 9 4 338.055
+TX ADVER 25 0 338.155
+TX ADVER 9 4 338.412
+TX ADVER 25 0 338.445
+TX ADVER 25 0 338.685
+TX ADVER 9 4 338.748
+TX ADVER 25 0 338.915
+TX ADVER 25 0 339.125
+TX ADVER 9 4 339.139
+TX ADVER 9 4 339.349
+TX ADVER 25 0 339.526
+TX ADVER 9 4 339.642
+TX ADVER 25 0 339.803
+TX ADVER 9 4 339.844
+TX ADVER 25 0 340.063
+TX ADVER 9 4 340.203
+TX ADVER 25 0 340.407
+TX ADVER 9 4 340.43
+TX ADVER 25 0 340.713
+TX ADVER 9 4 340.734
+TX ADVER 25 0 340.951
+TX ADVER 9 4 340.954
+TX ADVER 25 0 341.249
+TX ADVER 9 4 341.333
+TX ADVER 25 0 341.606
+TX ADVER 9 4 341.813
+TX ADVER 25 0 342.033
+TX ADVER 9 4 342.195
+TX ADVER 25 0 342.314
+TX ADVER 9 4 342.506
+TX ADVER 25 0 342.635
+TX ADVER 9 4 342.762
+TX ADVER 9 4 342.972
+TX ADVER 25 0 343.024
+TX ADVER 25 0 343.258
+TX ADVER 9 4 343.391
+TX ADVER 9 4 343.623
+TX ADVER 25 0 343.648
+TX ADVER 9 4 343.836
+TX ADVER 9 4 344.242
+TX ADVER 25 0 344.287
+TX ADVER 25 0 344.649
+TX ADVER 9 4 344.677
+TX ADVER 25 0 344.885
+TX ADVER 9 4 345.111
+TX ADVER 25 0 345.276
+TX ADVER 9 4 345.382
+TX ADVER 9 4 345.62
+TX ADVER 25 0 345.647
+TX ADVER 9 4 345.823
+TX ADVER 25 0 345.85
+No.3 Transfer End 346.008
+TX ADVER 9 4 346.048
+TX ADVER 9 1 346.054
+Rx ADVER 9 0 1 346.061
+Rx ADVER 9 3 1 346.061
+TX CTS 13 3 1 346.101
+TX CTS 21 0 1 346.131
+TX ADVER 9 4 346.267
+No.2 Transfer End 346.293
+TX ADVER 9 5 346.401
+Rx ADVER 9 6 5 346.414
+TX ADVER 9 2 346.448
+TX CTS 13 6 5 346.484
+TX ADVER 9 4 346.528
+TX ADVER 9 2 346.65
+TX ADVER 9 4 346.858
+TX ADVER 9 2 346.978
+TX ADVER 9 2 347.213
+TX ADVER 9 2 347.433
+TX ADVER 9 4 347.485
+TX ADVER 9 2 347.647
+TX ADVER 9 4 347.703
+TX ADVER 9 2 348.015
+TX ADVER 9 4 348.088
+TX ADVER 9 2 348.339
+TX ADVER 9 2 348.585
+TX ADVER 9 4 348.728
+TX ADVER 9 2 348.854
+TX ADVER 9 4 349.075
+TX ADVER 9 2 349.155
+TX ADVER 9 2 349.367
+TX ADVER 9 4 349.56
+TX ADVER 9 2 349.595
+TX ADVER 9 4 349.8
+TX ADVER 9 2 349.815
+TX ADVER 9 2 350.02
+TX ADVER 9 4 350.053
+TX ADVER 9 2 350.237
+TX ADVER 9 4 350.272
+TX ADVER 9 2 350.466
+TX ADVER 9 4 350.764
+TX ADVER 9 2 350.961
+TX ADVER 9 4 350.983
+TX ADVER 9 4 351.341
+TX ADVER 9 4 351.554
+TX ADVER 9 2 351.683
+TX ADVER 9 2 352.009
+TX ADVER 9 4 352.019
+TX ADVER 9 2 352.253
+TX ADVER 9 4 352.433
+TX ADVER 9 2 352.577
+TX ADVER 9 4 352.688
+TX ADVER 9 2 352.955
+TX ADVER 9 2 353.189
+TX ADVER 9 4 353.328
+TX ADVER 9 2 353.463
+TX ADVER 9 4 353.59
+TX ADVER 9 2 353.698
+TX ADVER 9 4 353.919
+TX ADVER 9 2 354.004
+TX ADVER 9 4 354.164
+TX ADVER 9 2 354.311
+TX ADVER 9 4 354.422
+TX ADVER 9 2 354.593
+TX ADVER 9 4 354.675
+TX ADVER 9 2 354.838
+TX ADVER 9 4 354.971
+TX ADVER 9 2 355.039
+TX ADVER 9 4 355.177
+TX ADVER 9 2 355.287
+TX ADVER 9 4 355.454
+TX ADVER 9 2 355.557
+TX ADVER 9 4 355.844
+TX ADVER 9 2 355.852
+TX ADVER 9 4 356.065
+No.5 Transfer End 356.277
+TX ADVER 9 5 356.283
+TX ADVER 9 2 356.284
+TX ADVER 9 4 356.388
+TX ADVER 9 6 356.408
+TX ADVER 9 4 356.591
+TX ADVER 9 5 356.645
+TX ADVER 9 2 356.745
+TX ADVER 9 6 356.902
+TX ADVER 9 4 356.964
+TX ADVER 9 2 356.977
+TX ADVER 9 5 357.214
+TX ADVER 9 4 357.25
+TX ADVER 9 6 357.322
+TX ADVER 9 2 357.343
+TX ADVER 9 6 357.539
+TX ADVER 9 5 357.579
+TX ADVER 9 4 357.648
+TX ADVER 9 2 357.728
+TX ADVER 9 6 357.765
+TX ADVER 9 5 357.838
+TX ADVER 9 4 357.919
+TX ADVER 9 2 357.939
+TX ADVER 9 6 357.968
+TX ADVER 9 5 358.139
+TX ADVER 9 2 358.34
+TX ADVER 9 4 358.436
+TX ADVER 9 5 358.463
+TX ADVER 9 6 358.63
+TX ADVER 9 4 358.719
+TX ADVER 9 2 358.746
+TX ADVER 9 2 358.964
+TX ADVER 9 5 359.022
+TX ADVER 9 4 359.036
+TX ADVER 9 6 359.109
+TX ADVER 9 4 359.25
+TX ADVER 9 2 359.289
+TX ADVER 9 6 359.324
+TX ADVER 9 4 359.484
+TX ADVER 9 5 359.495
+TX ADVER 9 2 359.567
+TX ADVER 9 6 359.633
+TX ADVER 9 4 359.726
+TX ADVER 9 5 359.774
+TX ADVER 9 2 359.824
+TX ADVER 9 6 359.876
+TX ADVER 9 5 359.99
+TX ADVER 9 2 360.11
+TX ADVER 9 4 360.174
+TX ADVER 9 6 360.175
+TX ADVER 9 5 360.273
+TX ADVER 9 2 360.351
+TX ADVER 9 6 360.401
+TX ADVER 9 4 360.44
+TX ADVER 9 2 360.636
+TX ADVER 9 5 360.637
+TX ADVER 9 4 360.671
+TX ADVER 9 6 360.803
+TX ADVER 9 5 360.997
+TX ADVER 9 6 361.053
+TX ADVER 9 2 361.07
+TX ADVER 9 5 361.294
+TX ADVER 9 4 361.383
+TX ADVER 9 6 361.433
+TX ADVER 9 2 361.497
+TX ADVER 9 5 361.574
+TX ADVER 9 6 361.705
+TX ADVER 9 4 361.759
+TX ADVER 9 5 361.801
+TX ADVER 9 2 361.936
+TX ADVER 9 6 361.99
+TX ADVER 9 5 362.002
+TX ADVER 9 4 362.119
+TX ADVER 9 6 362.194
+TX ADVER 9 5 362.213
+TX ADVER 9 2 362.401
+TX ADVER 9 5 362.425
+TX ADVER 9 6 362.5
+TX ADVER 9 4 362.525
+TX ADVER 9 2 362.635
+TX ADVER 9 5 362.668
+TX ADVER 9 6 362.817
+TX ADVER 9 4 362.843
+TX ADVER 9 5 362.95
+TX ADVER 9 2 362.996
+TX ADVER 9 6 363.075
+TX ADVER 9 2 363.251
+TX ADVER 9 5 363.286
+TX ADVER 9 4 363.395
+TX ADVER 9 6 363.395
+TX ADVER 9 2 363.47
+No.1 Transfer End 363.501
+TX ADVER 9 1 363.516
+TX ADVER 9 3 363.63
+TX ADVER 9 0 363.648
+Rx ADVER 9 4 0 363.649
+Rx ADVER 9 5 0 363.649
+Rx ADVER 9 6 0 363.649
+TX CTS 13 4 0 363.662
+TX CTS 13 5 0 363.662
+TX CTS 13 6 0 363.662
+TX ADVER 9 1 363.854
+TX ADVER 9 2 363.866
+TX ADVER 9 3 363.909
+TX ADVER 9 2 364.118
+TX ADVER 9 1 364.159
+TX ADVER 9 3 364.355
+TX ADVER 9 3 364.577
+TX ADVER 9 1 364.582
+TX ADVER 9 2 364.733
+TX ADVER 9 1 364.866
+TX ADVER 9 2 365.044
+TX ADVER 9 3 365.102
+TX ADVER 9 1 365.192
+TX ADVER 9 2 365.269
+TX ADVER 9 3 365.325
+TX ADVER 9 1 365.464
+TX ADVER 9 3 365.541
+TX ADVER 9 2 365.659
+TX ADVER 9 1 365.893
+TX ADVER 9 2 365.893
+TX ADVER 9 3 366.029
+TX ADVER 9 1 366.178
+TX ADVER 9 3 366.242
+TX ADVER 9 2 366.259
+TX ADVER 9 1 366.452
+TX ADVER 9 3 366.621
+TX ADVER 9 2 366.716
+TX ADVER 9 1 366.771
+TX ADVER 9 3 366.89
+TX ADVER 9 2 367.002
+TX ADVER 9 1 367.036
+TX ADVER 9 3 367.142
+TX ADVER 9 2 367.299
+TX ADVER 9 1 367.314
+TX ADVER 9 3 367.371
+TX ADVER 9 1 367.537
+TX ADVER 9 2 367.549
+TX ADVER 9 3 367.623
+TX ADVER 9 1 367.891
+TX ADVER 9 3 367.94
+TX ADVER 9 2 368.019
+TX ADVER 9 1 368.093
+TX ADVER 9 3 368.145
+TX ADVER 9 3 368.348
+TX ADVER 9 1 368.384
+TX ADVER 9 2 368.444
+TX ADVER 9 3 368.657
+TX ADVER 9 1 368.709
+TX ADVER 9 2 368.83
+TX ADVER 9 3 368.857
+No.0 Transfer End 368.895
+TX ADVER 9 4 368.903
+TX ADVER 9 0 368.967
+TX ADVER 9 5 369.004
+TX ADVER 9 6 369.022
+TX ADVER 9 4 369.205
+TX ADVER 9 1 369.279
+TX ADVER 9 6 369.33
+TX ADVER 9 5 369.333
+TX ADVER 9 0 369.35
+TX ADVER 9 5 369.569
+TX ADVER 9 2 369.577
+TX ADVER 9 0 369.622
+TX ADVER 9 4 369.63
+TX ADVER 9 6 369.795
+TX ADVER 9 0 369.822
+TX ADVER 9 5 369.883
+TX ADVER 9 4 369.974
+TX ADVER 9 5 370.12
+TX ADVER 9 1 370.139
+TX ADVER 9 0 370.277
+TX ADVER 9 6 370.307
+TX ADVER 9 4 370.324
+TX ADVER 9 5 370.554
+TX ADVER 9 6 370.935
+TX ADVER 9 4 371.136
+TX ADVER 9 0 371.242
+TX ADVER 9 3 371.307
+TX ADVER 9 5 371.647
+TX ADVER 9 6 371.657
+TX ADVER 9 1 371.662
+TX ADVER 9 0 371.851
+TX ADVER 9 6 371.857
+TX ADVER 9 4 372.019
+TX ADVER 9 5 372.447
+TX ADVER 9 6 372.477
+TX ADVER 9 4 372.771
+TX ADVER 9 5 372.876
+TX ADVER 9 0 372.939
+TX ADVER 9 6 372.947
+TX ADVER 9 6 373.177
+TX ADVER 9 6 373.459
+TX ADVER 9 0 373.504
+TX ADVER 9 4 373.578
+TX ADVER 9 5 373.676
+TX ADVER 9 4 373.868
+TX ADVER 9 3 373.996
+TX ADVER 9 0 374.184
+TX ADVER 9 5 374.206
+TX ADVER 9 6 374.505
+TX ADVER 9 1 374.667
+TX ADVER 9 0 374.796
+TX ADVER 9 6 374.998
+TX ADVER 9 5 375.36
+TX ADVER 9 1 375.419
+TX ADVER 9 4 375.454
+TX ADVER 9 6 375.639
+TX ADVER 9 0 375.698
+TX ADVER 9 0 376.132
+TX ADVER 9 6 376.986
+TX ADVER 9 4 377.094
+TX ADVER 9 3 377.1
+TX ADVER 9 5 377.218
+TX ADVER 9 6 377.234
+TX ADVER 9 4 377.548
+TX ADVER 9 0 377.592
+TX ADVER 9 1 378.247
+TX ADVER 9 2 378.768
+TX ADVER 9 5 379.014
+TX ADVER 9 4 379.596
+TX ADVER 9 0 379.907
+TX ADVER 9 6 379.908
+---- VCDServer ---- 
+Server transfered 46413 pkts.
+
+---- VCDServer ---- 
+Server transfered 82370 pkts.
+
+---- Client NO.0 stops ----- 
+0
+82371
+state is CTS_WAIT_PHASE 
+It received 82371 packets.
+
+---- Client NO.1 stops ----- 
+0
+82371
+state is TRANSFER_WAIT_PHASE 
+It received 82371 packets.
+
+---- Client NO.2 stops ----- 
+0
+82371
+state is TRANSFER_WAIT_PHASE 
+It received 82371 packets.
+
+---- Client NO.3 stops ----- 
+0
+82371
+state is TRANSFER_WAIT_PHASE 
+It received 82371 packets.
+
+---- Client NO.4 stops ----- 
+0
+82371
+state is TRANSFER_WAIT_PHASE 
+It received 82371 packets.
+
+---- Client NO.5 stops ----- 
+0
+82371
+state is TRANSFER_WAIT_PHASE 
+It received 82371 packets.
+
+---- Client NO.6 stops ----- 
+0
+82371
+state is CTS_WAIT_PHASE 
+It received 82371 packets.
+
+TX ADVER 9 3 380.508
+TX ADVER 9 1 380.922
+NS EXITING...

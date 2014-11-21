@@ -1,0 +1,497 @@
+Loading mobility pattern...
+Starting Simulation...
+num_nodes is set 4
+group manager starts
+node 0 is assigned as header for AP 3 at time 1.8
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+VCDServer node 3 receive REQUEST from node 0 at 1.8067
+----- downloading starts to the node No.0 ------
+VCDServer No.3 Tx Pkt NO.0 to VCDClient No.0 at time 1.8067
+VCDServer No.3 Tx Pkt NO.1 to VCDClient No.0 at time 1.81253
+VCDServer No.3 Tx Pkt NO.2 to VCDClient No.0 at time 1.81798
+VCDServer No.3 Tx Pkt NO.3 to VCDClient No.0 at time 1.82323
+VCDServer No.3 Tx Pkt NO.4 to VCDClient No.0 at time 1.83026
+VCDServer No.3 Tx Pkt NO.5 to VCDClient No.0 at time 1.83563
+VCDServer No.3 Tx Pkt NO.6 to VCDClient No.0 at time 1.84132
+VCDServer No.3 Tx Pkt NO.7 to VCDClient No.0 at time 1.84688
+VCDServer No.3 Tx Pkt NO.8 to VCDClient No.0 at time 1.85241
+VCDServer No.3 Tx Pkt NO.9 to VCDClient No.0 at time 1.85782
+VCDServer No.3 Tx Pkt NO.10 to VCDClient No.0 at time 1.86325
+VCDServer No.3 Tx Pkt NO.11 to VCDClient No.0 at time 1.86849
+VCDServer No.3 Tx Pkt NO.12 to VCDClient No.0 at time 1.87394
+VCDServer No.3 Tx Pkt NO.13 to VCDClient No.0 at time 1.87959
+VCDServer No.3 Tx Pkt NO.14 to VCDClient No.0 at time 1.88498
+VCDServer No.3 Tx Pkt NO.15 to VCDClient No.0 at time 1.89204
+VCDServer No.3 Tx Pkt NO.16 to VCDClient No.0 at time 1.8978
+VCDServer No.3 Tx Pkt NO.17 to VCDClient No.0 at time 1.90337
+VCDServer No.3 Tx Pkt NO.18 to VCDClient No.0 at time 1.90862
+VCDServer No.3 Tx Pkt NO.19 to VCDClient No.0 at time 1.91413
+VCDServer No.3 Tx Pkt NO.20 to VCDClient No.0 at time 1.91971
+VCDServer No.3 Tx Pkt NO.21 to VCDClient No.0 at time 1.92506
+VCDServer No.3 Tx Pkt NO.22 to VCDClient No.0 at time 1.93035
+VCDServer No.3 Tx Pkt NO.23 to VCDClient No.0 at time 1.93584
+VCDServer No.3 Tx Pkt NO.24 to VCDClient No.0 at time 1.94125
+VCDServer No.3 Tx Pkt NO.25 to VCDClient No.0 at time 1.94657
+VCDServer No.3 Tx Pkt NO.26 to VCDClient No.0 at time 1.9523
+VCDServer No.3 Tx Pkt NO.27 to VCDClient No.0 at time 1.95773
+VCDServer No.3 Tx Pkt NO.28 to VCDClient No.0 at time 1.96314
+VCDServer No.3 Tx Pkt NO.29 to VCDClient No.0 at time 1.96894
+VCDServer No.3 Tx Pkt NO.30 to VCDClient No.0 at time 1.97421
+VCDServer No.3 Tx Pkt NO.31 to VCDClient No.0 at time 1.97954
+VCDServer No.3 Tx Pkt NO.32 to VCDClient No.0 at time 1.98509
+VCDServer No.3 Tx Pkt NO.33 to VCDClient No.0 at time 1.9908
+VCDServer No.3 Tx Pkt NO.34 to VCDClient No.0 at time 1.9963
+VCDServer No.3 Tx Pkt NO.35 to VCDClient No.0 at time 2.00169
+VCDServer No.3 Tx Pkt NO.36 to VCDClient No.0 at time 2.00718
+VCDServer No.3 Tx Pkt NO.37 to VCDClient No.0 at time 2.01287
+VCDServer No.3 Tx Pkt NO.38 to VCDClient No.0 at time 2.01809
+VCDServer No.3 Tx Pkt NO.39 to VCDClient No.0 at time 2.02352
+VCDServer No.3 Tx Pkt NO.40 to VCDClient No.0 at time 2.02905
+VCDServer No.3 Tx Pkt NO.41 to VCDClient No.0 at time 2.03442
+VCDServer No.3 Tx Pkt NO.42 to VCDClient No.0 at time 2.03985
+VCDServer No.3 Tx Pkt NO.43 to VCDClient No.0 at time 2.04515
+VCDServer No.3 Tx Pkt NO.44 to VCDClient No.0 at time 2.05066
+VCDServer No.3 Tx Pkt NO.45 to VCDClient No.0 at time 2.05587
+VCDServer No.3 Tx Pkt NO.46 to VCDClient No.0 at time 2.06132
+VCDServer No.3 Tx Pkt NO.47 to VCDClient No.0 at time 2.06683
+VCDServer No.3 Tx Pkt NO.48 to VCDClient No.0 at time 2.07233
+VCDServer No.3 Tx Pkt NO.49 to VCDClient No.0 at time 2.07756
+VCDServer No.3 Tx Pkt NO.50 to VCDClient No.0 at time 2.08325
+VCDServer No.3 Tx Pkt NO.51 to VCDClient No.0 at time 2.0887
+VCDServer No.3 Tx Pkt NO.52 to VCDClient No.0 at time 2.09403
+VCDServer No.3 Tx Pkt NO.53 to VCDClient No.0 at time 2.09955
+VCDServer No.3 Tx Pkt NO.54 to VCDClient No.0 at time 2.1048
+VCDServer No.3 Tx Pkt NO.55 to VCDClient No.0 at time 2.11047
+VCDServer No.3 Tx Pkt NO.56 to VCDClient No.0 at time 2.1158
+VCDServer No.3 Tx Pkt NO.57 to VCDClient No.0 at time 2.12122
+VCDServer No.3 Tx Pkt NO.58 to VCDClient No.0 at time 2.12653
+VCDServer No.3 Tx Pkt NO.59 to VCDClient No.0 at time 2.13182
+VCDServer No.3 Tx Pkt NO.60 to VCDClient No.0 at time 2.13729
+VCDServer No.3 Tx Pkt NO.61 to VCDClient No.0 at time 2.1427
+VCDServer No.3 Tx Pkt NO.62 to VCDClient No.0 at time 2.14798
+VCDServer No.3 Tx Pkt NO.63 to VCDClient No.0 at time 2.15353
+VCDServer No.3 Tx Pkt NO.64 to VCDClient No.0 at time 2.15934
+VCDServer No.3 Tx Pkt NO.65 to VCDClient No.0 at time 2.16467
+VCDServer No.3 Tx Pkt NO.66 to VCDClient No.0 at time 2.16995
+VCDServer No.3 Tx Pkt NO.67 to VCDClient No.0 at time 2.17574
+VCDServer No.3 Tx Pkt NO.68 to VCDClient No.0 at time 2.18107
+VCDServer No.3 Tx Pkt NO.69 to VCDClient No.0 at time 2.18688
+VCDServer No.3 Tx Pkt NO.70 to VCDClient No.0 at time 2.19254
+VCDServer No.3 Tx Pkt NO.71 to VCDClient No.0 at time 2.19829
+VCDServer No.3 Tx Pkt NO.72 to VCDClient No.0 at time 2.2038
+VCDServer No.3 Tx Pkt NO.73 to VCDClient No.0 at time 2.20931
+VCDServer No.3 Tx Pkt NO.74 to VCDClient No.0 at time 2.21483
+VCDServer No.3 Tx Pkt NO.75 to VCDClient No.0 at time 2.22038
+VCDServer No.3 Tx Pkt NO.76 to VCDClient No.0 at time 2.22563
+VCDServer No.3 Tx Pkt NO.77 to VCDClient No.0 at time 2.23142
+VCDServer No.3 Tx Pkt NO.78 to VCDClient No.0 at time 2.23686
+VCDServer No.3 Tx Pkt NO.79 to VCDClient No.0 at time 2.24225
+VCDServer No.3 Tx Pkt NO.80 to VCDClient No.0 at time 2.24762
+VCDServer No.3 Tx Pkt NO.81 to VCDClient No.0 at time 2.25327
+VCDServer No.3 Tx Pkt NO.82 to VCDClient No.0 at time 2.25889
+VCDServer No.3 Tx Pkt NO.83 to VCDClient No.0 at time 2.26422
+VCDServer No.3 Tx Pkt NO.84 to VCDClient No.0 at time 2.26959
+VCDServer No.3 Tx Pkt NO.85 to VCDClient No.0 at time 2.27503
+VCDServer No.3 Tx Pkt NO.86 to VCDClient No.0 at time 2.28024
+VCDServer No.3 Tx Pkt NO.87 to VCDClient No.0 at time 2.28559
+VCDServer No.3 Tx Pkt NO.88 to VCDClient No.0 at time 2.29116
+VCDServer No.3 Tx Pkt NO.89 to VCDClient No.0 at time 2.2967
+VCDServer No.3 Tx Pkt NO.90 to VCDClient No.0 at time 2.30233
+VCDServer No.3 Tx Pkt NO.91 to VCDClient No.0 at time 2.30804
+VCDServer No.3 Tx Pkt NO.92 to VCDClient No.0 at time 2.31358
+VCDServer No.3 Tx Pkt NO.93 to VCDClient No.0 at time 2.31895
+VCDServer No.3 Tx Pkt NO.94 to VCDClient No.0 at time 2.32418
+VCDServer No.3 Tx Pkt NO.95 to VCDClient No.0 at time 2.32965
+VCDServer No.3 Tx Pkt NO.96 to VCDClient No.0 at time 2.33497
+VCDServer No.3 Tx Pkt NO.97 to VCDClient No.0 at time 2.34018
+VCDServer No.3 Tx Pkt NO.98 to VCDClient No.0 at time 2.34545
+VCDServer No.3 incorrectly sends something! 2.41747
+-----------change the sending vehicles to 1 at time 2.41747
+VCDServer No.3 Tx Pkt NO.98 to VCDClient No.1 at time 2.41747
+VCDServer No.3 Tx Pkt NO.99 to VCDClient No.1 at time 2.4283
+VCDServer No.3 Tx Pkt NO.100 to VCDClient No.1 at time 2.43365
+VCDServer No.3 Tx Pkt NO.101 to VCDClient No.1 at time 2.44
+VCDServer No.3 Tx Pkt NO.102 to VCDClient No.1 at time 2.44531
+VCDServer No.3 Tx Pkt NO.103 to VCDClient No.1 at time 2.45053
+VCDServer No.3 Tx Pkt NO.104 to VCDClient No.1 at time 2.45628
+VCDServer No.3 Tx Pkt NO.105 to VCDClient No.1 at time 2.46205
+VCDServer No.3 Tx Pkt NO.106 to VCDClient No.1 at time 2.46784
+VCDServer No.3 Tx Pkt NO.107 to VCDClient No.1 at time 2.47364
+VCDServer No.3 Tx Pkt NO.108 to VCDClient No.1 at time 2.47907
+VCDServer No.3 Tx Pkt NO.109 to VCDClient No.1 at time 2.4848
+VCDServer No.3 Tx Pkt NO.110 to VCDClient No.1 at time 2.49015
+VCDServer No.3 Tx Pkt NO.111 to VCDClient No.1 at time 2.49561
+VCDServer No.3 Tx Pkt NO.112 to VCDClient No.1 at time 2.50134
+VCDServer No.3 Tx Pkt NO.113 to VCDClient No.1 at time 2.50665
+VCDServer No.3 Tx Pkt NO.114 to VCDClient No.1 at time 2.51204
+VCDServer No.3 Tx Pkt NO.115 to VCDClient No.1 at time 2.51726
+VCDServer No.3 Tx Pkt NO.116 to VCDClient No.1 at time 2.52285
+VCDServer No.3 Tx Pkt NO.117 to VCDClient No.1 at time 2.52856
+VCDServer No.3 Tx Pkt NO.118 to VCDClient No.1 at time 2.53401
+VCDServer No.3 Tx Pkt NO.119 to VCDClient No.1 at time 2.53923
+VCDServer No.3 Tx Pkt NO.120 to VCDClient No.1 at time 2.54456
+VCDServer No.3 Tx Pkt NO.121 to VCDClient No.1 at time 2.55013
+VCDServer No.3 Tx Pkt NO.122 to VCDClient No.1 at time 2.55551
+VCDServer No.3 Tx Pkt NO.123 to VCDClient No.1 at time 2.56122
+VCDServer No.3 Tx Pkt NO.124 to VCDClient No.1 at time 2.56703
+VCDServer No.3 Tx Pkt NO.125 to VCDClient No.1 at time 2.57238
+VCDServer No.3 Tx Pkt NO.126 to VCDClient No.1 at time 2.57814
+VCDServer No.3 Tx Pkt NO.127 to VCDClient No.1 at time 2.58389
+VCDServer No.3 Tx Pkt NO.128 to VCDClient No.1 at time 2.58914
+VCDServer No.3 Tx Pkt NO.129 to VCDClient No.1 at time 2.59484
+VCDServer No.3 Tx Pkt NO.130 to VCDClient No.1 at time 2.60041
+VCDServer No.3 Tx Pkt NO.131 to VCDClient No.1 at time 2.60562
+VCDServer No.3 Tx Pkt NO.132 to VCDClient No.1 at time 2.61092
+VCDServer No.3 incorrectly sends something! 2.67179
+-----------change the sending vehicles to 2 at time 2.67179
+VCDServer No.3 Tx Pkt NO.132 to VCDClient No.2 at time 2.67179
+VCDServer No.3 Tx Pkt NO.133 to VCDClient No.2 at time 2.68323
+VCDServer No.3 Tx Pkt NO.134 to VCDClient No.2 at time 2.68875
+VCDServer No.3 Tx Pkt NO.135 to VCDClient No.2 at time 2.69436
+VCDServer No.3 Tx Pkt NO.136 to VCDClient No.2 at time 2.69969
+VCDServer No.3 Tx Pkt NO.137 to VCDClient No.2 at time 2.70536
+VCDServer No.3 Tx Pkt NO.138 to VCDClient No.2 at time 2.71059
+VCDServer No.3 Tx Pkt NO.139 to VCDClient No.2 at time 2.71581
+VCDServer No.3 Tx Pkt NO.140 to VCDClient No.2 at time 2.7211
+VCDServer No.3 Tx Pkt NO.141 to VCDClient No.2 at time 2.72687
+VCDServer No.3 Tx Pkt NO.142 to VCDClient No.2 at time 2.73254
+VCDServer No.3 Tx Pkt NO.143 to VCDClient No.2 at time 2.7381
+VCDServer No.3 Tx Pkt NO.144 to VCDClient No.2 at time 2.74347
+VCDServer No.3 Tx Pkt NO.145 to VCDClient No.2 at time 2.74904
+VCDServer No.3 Tx Pkt NO.146 to VCDClient No.2 at time 2.75435
+VCDServer No.3 Tx Pkt NO.147 to VCDClient No.2 at time 2.75979
+VCDServer No.3 Tx Pkt NO.148 to VCDClient No.2 at time 2.76552
+VCDServer No.3 Tx Pkt NO.149 to VCDClient No.2 at time 2.77077
+VCDServer No.3 Tx Pkt NO.150 to VCDClient No.2 at time 2.77609
+VCDServer No.3 Tx Pkt NO.151 to VCDClient No.2 at time 2.78176
+VCDServer No.3 Tx Pkt NO.152 to VCDClient No.2 at time 2.78703
+VCDServer No.3 Tx Pkt NO.153 to VCDClient No.2 at time 2.79276
+VCDServer No.3 Tx Pkt NO.154 to VCDClient No.2 at time 2.7983
+VCDServer No.3 Tx Pkt NO.155 to VCDClient No.2 at time 2.80379
+VCDServer No.3 Tx Pkt NO.156 to VCDClient No.2 at time 2.80904
+VCDServer No.3 Tx Pkt NO.157 to VCDClient No.2 at time 2.81451
+VCDServer No.3 Tx Pkt NO.158 to VCDClient No.2 at time 2.82009
+VCDServer No.3 Tx Pkt NO.159 to VCDClient No.2 at time 2.82566
+VCDServer No.3 Tx Pkt NO.160 to VCDClient No.2 at time 2.83103
+VCDServer No.3 Tx Pkt NO.161 to VCDClient No.2 at time 2.83658
+VCDServer No.3 Tx Pkt NO.162 to VCDClient No.2 at time 2.84214
+VCDServer No.3 Tx Pkt NO.163 to VCDClient No.2 at time 2.84745
+VCDServer No.3 Tx Pkt NO.164 to VCDClient No.2 at time 2.85302
+VCDServer No.3 Tx Pkt NO.165 to VCDClient No.2 at time 2.85872
+VCDServer No.3 Tx Pkt NO.166 to VCDClient No.2 at time 2.86439
+VCDServer No.3 Tx Pkt NO.167 to VCDClient No.2 at time 2.86986
+VCDServer No.3 Tx Pkt NO.168 to VCDClient No.2 at time 2.87508
+VCDServer No.3 Tx Pkt NO.169 to VCDClient No.2 at time 2.88071
+VCDServer No.3 Tx Pkt NO.170 to VCDClient No.2 at time 2.88616
+VCDServer No.3 Tx Pkt NO.171 to VCDClient No.2 at time 2.89147
+VCDServer No.3 incorrectly sends something! 2.96627
+node 0 send ADVER at time 3.1369 msg size is 17
+VCDClient No.1 receive ADVER from VCDClient No.0 at state COVERAGE_PHASE  3.13778
+node 1 send ADVER at time 3.28263 msg size is 21
+VCDClient No.0 receive ADVER from VCDClient No.1 at state CTS_WAIT_PHASE  3.28374
+VCDClient No.2 receive ADVER from VCDClient No.1 at state COVERAGE_PHASE  3.28374
+node 2 send ADVER at time 3.6948 msg size is 21
+VCDClient No.1 receive ADVER from VCDClient No.2 3.69627
+VCDClient No.1 send CTS for VCDClient No.2 3.69627
+VCDClient No.2 receive CTS from VCDClient No.1 3.69963
+node 0 send ADVER at time 3.81563 msg size is 17
+VCDClient No.2 transmits packet No.132 to VCDClient No.1 at time 3.9948
+VCDClient No.2 transmits packet No.133 to VCDClient No.1 at time 4.00032
+VCDClient No.2 transmits packet No.134 to VCDClient No.1 at time 4.00613
+VCDClient No.2 transmits packet No.135 to VCDClient No.1 at time 4.01176
+VCDClient No.2 transmits packet No.136 to VCDClient No.1 at time 4.01753
+VCDClient No.2 transmits packet No.137 to VCDClient No.1 at time 4.02319
+VCDClient No.2 transmits packet No.138 to VCDClient No.1 at time 4.02866
+VCDClient No.2 transmits packet No.139 to VCDClient No.1 at time 4.03433
+VCDClient No.2 transmits packet No.140 to VCDClient No.1 at time 4.03993
+VCDClient No.2 transmits packet No.141 to VCDClient No.1 at time 4.04568
+VCDClient No.2 transmits packet No.142 to VCDClient No.1 at time 4.05141
+VCDClient No.2 transmits packet No.143 to VCDClient No.1 at time 4.05718
+VCDClient No.2 transmits packet No.144 to VCDClient No.1 at time 4.06284
+VCDClient No.2 transmits packet No.145 to VCDClient No.1 at time 4.06827
+VCDClient No.2 transmits packet No.146 to VCDClient No.1 at time 4.07348
+VCDClient No.2 transmits packet No.147 to VCDClient No.1 at time 4.0791
+VCDClient No.2 transmits packet No.148 to VCDClient No.1 at time 4.08469
+VCDClient No.2 transmits packet No.149 to VCDClient No.1 at time 4.0899
+VCDClient No.2 transmits packet No.150 to VCDClient No.1 at time 4.09559
+VCDClient No.2 transmits packet No.151 to VCDClient No.1 at time 4.10099
+VCDClient No.2 transmits packet No.152 to VCDClient No.1 at time 4.10632
+VCDClient No.2 transmits packet No.153 to VCDClient No.1 at time 4.11155
+VCDClient No.2 transmits packet No.154 to VCDClient No.1 at time 4.11691
+VCDClient No.2 transmits packet No.155 to VCDClient No.1 at time 4.12224
+VCDClient No.2 transmits packet No.156 to VCDClient No.1 at time 4.12779
+VCDClient No.2 transmits packet No.157 to VCDClient No.1 at time 4.13315
+VCDClient No.2 transmits packet No.158 to VCDClient No.1 at time 4.13864
+VCDClient No.2 transmits packet No.159 to VCDClient No.1 at time 4.14405
+VCDClient No.2 transmits packet No.160 to VCDClient No.1 at time 4.14934
+VCDClient No.2 transmits packet No.161 to VCDClient No.1 at time 4.1547
+VCDClient No.2 transmits packet No.162 to VCDClient No.1 at time 4.16013
+VCDClient No.2 transmits packet No.163 to VCDClient No.1 at time 4.1659
+VCDClient No.2 transmits packet No.164 to VCDClient No.1 at time 4.17146
+VCDClient No.2 transmits packet No.165 to VCDClient No.1 at time 4.17705
+VCDClient No.2 transmits packet No.166 to VCDClient No.1 at time 4.18256
+VCDClient No.2 transmits packet No.167 to VCDClient No.1 at time 4.18819
+VCDClient No.2 transmits packet No.168 to VCDClient No.1 at time 4.19379
+VCDClient No.2 transmits packet No.169 to VCDClient No.1 at time 4.19926
+VCDClient No.2 transmits packet No.170 to VCDClient No.1 at time 4.20501
+VCDClient No.2 transmits packet No.171 to VCDClient No.1 at time 4.21043
+VCDClient No.2 all are transferred at time 4.21616
+VCDClient No.1 receive FINISH from VCDClient No.2 4.21726
+node 1 send ADVER at time 4.27526 msg size is 21
+VCDClient No.0 receive ADVER from VCDClient No.1 4.27643
+VCDClient No.0 send CTS for VCDClient No.1 4.27643
+VCDClient No.2 receive ADVER from VCDClient No.1 4.27643
+VCDClient No.2 send CTS for VCDClient No.1 4.27643
+VCDClient No.1 receive CTS from VCDClient No.2 4.27786
+VCDClient No.1 receive CTS from VCDClient No.0 at state TRANSFER_CTS_PHASE  4.27912
+VCDClient No.1 transmits packet No.33 to VCDClient No.2 at time 4.57526
+VCDClient No.1 transmits packet No.34 to VCDClient No.2 at time 4.5806
+VCDClient No.1 transmits packet No.35 to VCDClient No.2 at time 4.58641
+VCDClient No.1 transmits packet No.36 to VCDClient No.2 at time 4.59177
+VCDClient No.1 transmits packet No.37 to VCDClient No.2 at time 4.59746
+VCDClient No.1 transmits packet No.38 to VCDClient No.2 at time 4.60301
+VCDClient No.1 transmits packet No.39 to VCDClient No.2 at time 4.60872
+VCDClient No.1 transmits packet No.40 to VCDClient No.2 at time 4.61418
+VCDClient No.1 transmits packet No.41 to VCDClient No.2 at time 4.61999
+VCDClient No.1 transmits packet No.42 to VCDClient No.2 at time 4.62562
+VCDClient No.1 transmits packet No.43 to VCDClient No.2 at time 4.63144
+VCDClient No.1 transmits packet No.44 to VCDClient No.2 at time 4.63689
+VCDClient No.1 transmits packet No.45 to VCDClient No.2 at time 4.6421
+VCDClient No.1 transmits packet No.46 to VCDClient No.2 at time 4.64736
+VCDClient No.1 transmits packet No.47 to VCDClient No.2 at time 4.65285
+VCDClient No.1 transmits packet No.48 to VCDClient No.2 at time 4.65806
+VCDClient No.1 transmits packet No.49 to VCDClient No.2 at time 4.66383
+VCDClient No.1 transmits packet No.50 to VCDClient No.2 at time 4.66957
+VCDClient No.1 transmits packet No.51 to VCDClient No.2 at time 4.6749
+VCDClient No.1 transmits packet No.52 to VCDClient No.2 at time 4.68045
+VCDClient No.1 transmits packet No.53 to VCDClient No.2 at time 4.68615
+VCDClient No.1 transmits packet No.54 to VCDClient No.2 at time 4.69136
+VCDClient No.1 transmits packet No.55 to VCDClient No.2 at time 4.69697
+VCDClient No.1 transmits packet No.56 to VCDClient No.2 at time 4.7025
+VCDClient No.1 transmits packet No.57 to VCDClient No.2 at time 4.70814
+VCDClient No.1 transmits packet No.58 to VCDClient No.2 at time 4.71393
+VCDClient No.1 transmits packet No.59 to VCDClient No.2 at time 4.71944
+VCDClient No.1 transmits packet No.60 to VCDClient No.2 at time 4.72468
+VCDClient No.1 transmits packet No.61 to VCDClient No.2 at time 4.73025
+VCDClient No.1 transmits packet No.62 to VCDClient No.2 at time 4.73584
+VCDClient No.1 transmits packet No.63 to VCDClient No.2 at time 4.74155
+VCDClient No.1 transmits packet No.64 to VCDClient No.2 at time 4.74735
+VCDClient No.1 transmits packet No.65 to VCDClient No.2 at time 4.75282
+VCDClient No.1 transmits packet No.66 to VCDClient No.2 at time 4.75827
+VCDClient No.1 transmits packet No.67 to VCDClient No.2 at time 4.76353
+VCDClient No.1 transmits packet No.68 to VCDClient No.2 at time 4.76918
+VCDClient No.1 transmits packet No.69 to VCDClient No.2 at time 4.77443
+VCDClient No.1 transmits packet No.70 to VCDClient No.2 at time 4.78002
+VCDClient No.1 transmits packet No.71 to VCDClient No.2 at time 4.7854
+VCDClient No.1 transmits packet No.72 to VCDClient No.2 at time 4.79075
+VCDClient No.1 transmits packet No.73 to VCDClient No.2 at time 4.79646
+VCDClient No.1 transmits packet No.74 to VCDClient No.2 at time 4.80172
+VCDClient No.1 transmits packet No.75 to VCDClient No.2 at time 4.80697
+VCDClient No.1 transmits packet No.76 to VCDClient No.2 at time 4.81262
+VCDClient No.1 transmits packet No.77 to VCDClient No.2 at time 4.81844
+VCDClient No.1 transmits packet No.78 to VCDClient No.2 at time 4.82379
+VCDClient No.1 transmits packet No.79 to VCDClient No.2 at time 4.82954
+VCDClient No.1 transmits packet No.80 to VCDClient No.2 at time 4.83513
+VCDClient No.1 transmits packet No.81 to VCDClient No.2 at time 4.84077
+VCDClient No.1 transmits packet No.82 to VCDClient No.2 at time 4.84598
+VCDClient No.1 transmits packet No.83 to VCDClient No.2 at time 4.85139
+VCDClient No.1 transmits packet No.84 to VCDClient No.2 at time 4.85661
+VCDClient No.1 transmits packet No.99 to VCDClient No.0 at time 4.86186
+VCDClient No.1 transmits packet No.100 to VCDClient No.0 at time 4.86987
+VCDClient No.1 transmits packet No.101 to VCDClient No.0 at time 4.87542
+VCDClient No.1 transmits packet No.102 to VCDClient No.0 at time 4.88081
+VCDClient No.1 transmits packet No.103 to VCDClient No.0 at time 4.88611
+VCDClient No.1 transmits packet No.104 to VCDClient No.0 at time 4.8914
+VCDClient No.1 transmits packet No.105 to VCDClient No.0 at time 4.89701
+VCDClient No.1 transmits packet No.106 to VCDClient No.0 at time 4.90222
+VCDClient No.1 transmits packet No.107 to VCDClient No.0 at time 4.90788
+VCDClient No.1 transmits packet No.108 to VCDClient No.0 at time 4.91347
+VCDClient No.1 transmits packet No.109 to VCDClient No.0 at time 4.91926
+VCDClient No.1 transmits packet No.110 to VCDClient No.0 at time 4.9246
+VCDClient No.1 transmits packet No.111 to VCDClient No.0 at time 4.92989
+VCDClient No.1 transmits packet No.112 to VCDClient No.0 at time 4.93538
+VCDClient No.1 transmits packet No.113 to VCDClient No.0 at time 4.94083
+VCDClient No.1 transmits packet No.114 to VCDClient No.0 at time 4.94665
+VCDClient No.1 transmits packet No.115 to VCDClient No.0 at time 4.95216
+VCDClient No.1 transmits packet No.116 to VCDClient No.0 at time 4.95765
+VCDClient No.1 transmits packet No.117 to VCDClient No.0 at time 4.96345
+VCDClient No.1 transmits packet No.118 to VCDClient No.0 at time 4.96872
+VCDClient No.1 transmits packet No.119 to VCDClient No.0 at time 4.97439
+VCDClient No.1 transmits packet No.120 to VCDClient No.0 at time 4.97966
+VCDClient No.1 transmits packet No.121 to VCDClient No.0 at time 4.98504
+VCDClient No.1 transmits packet No.122 to VCDClient No.0 at time 4.99037
+VCDClient No.1 transmits packet No.123 to VCDClient No.0 at time 4.99612
+VCDClient No.1 transmits packet No.124 to VCDClient No.0 at time 5.00164
+VCDClient No.1 transmits packet No.125 to VCDClient No.0 at time 5.00745
+VCDClient No.1 transmits packet No.126 to VCDClient No.0 at time 5.01322
+VCDClient No.1 transmits packet No.127 to VCDClient No.0 at time 5.01885
+VCDClient No.1 transmits packet No.128 to VCDClient No.0 at time 5.02449
+VCDClient No.1 transmits packet No.129 to VCDClient No.0 at time 5.02988
+VCDClient No.1 transmits packet No.130 to VCDClient No.0 at time 5.03511
+VCDClient No.1 transmits packet No.131 to VCDClient No.0 at time 5.04035
+VCDClient No.1 transmits packet No.132 to VCDClient No.0 at time 5.04596
+VCDClient No.1 transmits packet No.133 to VCDClient No.0 at time 5.05121
+VCDClient No.1 transmits packet No.134 to VCDClient No.0 at time 5.05668
+VCDClient No.1 transmits packet No.135 to VCDClient No.0 at time 5.0619
+VCDClient No.1 transmits packet No.136 to VCDClient No.0 at time 5.06717
+VCDClient No.1 transmits packet No.137 to VCDClient No.0 at time 5.0728
+VCDClient No.1 transmits packet No.138 to VCDClient No.0 at time 5.07846
+VCDClient No.1 transmits packet No.139 to VCDClient No.0 at time 5.08413
+VCDClient No.1 transmits packet No.140 to VCDClient No.0 at time 5.08968
+VCDClient No.1 transmits packet No.141 to VCDClient No.0 at time 5.09549
+VCDClient No.1 transmits packet No.142 to VCDClient No.0 at time 5.10073
+VCDClient No.1 transmits packet No.143 to VCDClient No.0 at time 5.10618
+VCDClient No.1 transmits packet No.144 to VCDClient No.0 at time 5.11195
+VCDClient No.1 transmits packet No.145 to VCDClient No.0 at time 5.11739
+VCDClient No.1 transmits packet No.146 to VCDClient No.0 at time 5.1226
+VCDClient No.1 transmits packet No.147 to VCDClient No.0 at time 5.12805
+VCDClient No.1 transmits packet No.148 to VCDClient No.0 at time 5.13342
+VCDClient No.1 transmits packet No.149 to VCDClient No.0 at time 5.1392
+VCDClient No.1 transmits packet No.150 to VCDClient No.0 at time 5.14481
+VCDClient No.1 transmits packet No.151 to VCDClient No.0 at time 5.15004
+VCDClient No.1 transmits packet No.152 to VCDClient No.0 at time 5.15573
+VCDClient No.1 transmits packet No.153 to VCDClient No.0 at time 5.16155
+VCDClient No.1 transmits packet No.154 to VCDClient No.0 at time 5.1672
+VCDClient No.1 transmits packet No.155 to VCDClient No.0 at time 5.17255
+VCDClient No.1 transmits packet No.156 to VCDClient No.0 at time 5.17793
+VCDClient No.1 transmits packet No.157 to VCDClient No.0 at time 5.18334
+VCDClient No.1 transmits packet No.158 to VCDClient No.0 at time 5.18865
+VCDClient No.1 transmits packet No.159 to VCDClient No.0 at time 5.19406
+VCDClient No.1 transmits packet No.160 to VCDClient No.0 at time 5.19928
+VCDClient No.1 transmits packet No.161 to VCDClient No.0 at time 5.20465
+VCDClient No.1 transmits packet No.162 to VCDClient No.0 at time 5.2099
+VCDClient No.1 transmits packet No.163 to VCDClient No.0 at time 5.21564
+VCDClient No.1 transmits packet No.164 to VCDClient No.0 at time 5.22119
+VCDClient No.1 transmits packet No.165 to VCDClient No.0 at time 5.22696
+VCDClient No.1 transmits packet No.166 to VCDClient No.0 at time 5.23271
+VCDClient No.1 transmits packet No.167 to VCDClient No.0 at time 5.23839
+VCDClient No.1 transmits packet No.168 to VCDClient No.0 at time 5.24368
+VCDClient No.1 transmits packet No.169 to VCDClient No.0 at time 5.24907
+VCDClient No.1 transmits packet No.170 to VCDClient No.0 at time 5.25449
+VCDClient No.1 transmits packet No.171 to VCDClient No.0 at time 5.25994
+VCDClient No.1 all are transferred at time 5.26523
+VCDClient No.0 receive FINISH from VCDClient No.1 5.2664
+VCDClient No.2 receive FINISH from VCDClient No.1 5.2664
+node 1 send ADVER at time 5.31323 msg size is 21
+VCDClient No.0 receive ADVER from VCDClient No.1 5.31428
+VCDClient No.2 receive ADVER from VCDClient No.1 5.31428
+node 2 send ADVER at time 5.3924 msg size is 21
+VCDClient No.1 receive ADVER from VCDClient No.2 at state CTS_WAIT_PHASE  5.39331
+node 0 send ADVER at time 5.4424 msg size is 17
+VCDClient No.1 receive ADVER from VCDClient No.0 at state CTS_WAIT_PHASE  5.44334
+node 1 send ADVER at time 5.77723 msg size is 21
+VCDClient No.0 receive ADVER from VCDClient No.1 5.77836
+VCDClient No.2 receive ADVER from VCDClient No.1 5.77836
+node 0 send ADVER at time 5.9664 msg size is 17
+VCDClient No.1 receive ADVER from VCDClient No.0 at state CTS_WAIT_PHASE  5.96752
+node 2 send ADVER at time 6.0564 msg size is 21
+VCDClient No.1 receive ADVER from VCDClient No.2 at state CTS_WAIT_PHASE  6.05781
+node 1 send ADVER at time 6.41323 msg size is 21
+VCDClient No.2 receive ADVER from VCDClient No.1 6.41412
+VCDClient No.0 receive ADVER from VCDClient No.1 6.41412
+node 2 send ADVER at time 6.5964 msg size is 21
+VCDClient No.1 receive ADVER from VCDClient No.2 at state CTS_WAIT_PHASE  6.59737
+node 0 send ADVER at time 6.7824 msg size is 17
+VCDClient No.1 receive ADVER from VCDClient No.0 6.7834
+VCDClient No.1 send CTS for VCDClient No.0 6.7834
+VCDClient No.0 receive CTS from VCDClient No.1 6.78479
+node 2 send ADVER at time 6.9444 msg size is 21
+VCDClient No.0 transmits packet No.0 to VCDClient No.1 at time 7.0824
+VCDClient No.0 transmits packet No.1 to VCDClient No.1 at time 7.08787
+VCDClient No.0 transmits packet No.2 to VCDClient No.1 at time 7.09315
+VCDClient No.0 transmits packet No.3 to VCDClient No.1 at time 7.0985
+VCDClient No.0 transmits packet No.4 to VCDClient No.1 at time 7.10427
+VCDClient No.0 transmits packet No.5 to VCDClient No.1 at time 7.10954
+VCDClient No.0 transmits packet No.6 to VCDClient No.1 at time 7.1149
+VCDClient No.0 transmits packet No.7 to VCDClient No.1 at time 7.12057
+VCDClient No.0 transmits packet No.8 to VCDClient No.1 at time 7.1258
+VCDClient No.0 transmits packet No.9 to VCDClient No.1 at time 7.13106
+VCDClient No.0 transmits packet No.10 to VCDClient No.1 at time 7.13673
+VCDClient No.0 transmits packet No.11 to VCDClient No.1 at time 7.14198
+VCDClient No.0 transmits packet No.12 to VCDClient No.1 at time 7.14771
+VCDClient No.0 transmits packet No.13 to VCDClient No.1 at time 7.15339
+VCDClient No.0 transmits packet No.14 to VCDClient No.1 at time 7.1587
+VCDClient No.0 transmits packet No.15 to VCDClient No.1 at time 7.16427
+VCDClient No.0 transmits packet No.16 to VCDClient No.1 at time 7.16981
+VCDClient No.0 transmits packet No.17 to VCDClient No.1 at time 7.17556
+VCDClient No.0 transmits packet No.18 to VCDClient No.1 at time 7.18087
+VCDClient No.0 transmits packet No.19 to VCDClient No.1 at time 7.18632
+VCDClient No.0 transmits packet No.20 to VCDClient No.1 at time 7.192
+VCDClient No.0 transmits packet No.21 to VCDClient No.1 at time 7.19739
+VCDClient No.0 transmits packet No.22 to VCDClient No.1 at time 7.20274
+VCDClient No.0 transmits packet No.23 to VCDClient No.1 at time 7.20812
+VCDClient No.0 transmits packet No.24 to VCDClient No.1 at time 7.21381
+VCDClient No.0 transmits packet No.25 to VCDClient No.1 at time 7.21946
+VCDClient No.0 transmits packet No.26 to VCDClient No.1 at time 7.22519
+VCDClient No.0 transmits packet No.27 to VCDClient No.1 at time 7.23075
+VCDClient No.0 transmits packet No.28 to VCDClient No.1 at time 7.2365
+VCDClient No.0 transmits packet No.29 to VCDClient No.1 at time 7.24227
+VCDClient No.0 transmits packet No.30 to VCDClient No.1 at time 7.24795
+VCDClient No.0 transmits packet No.31 to VCDClient No.1 at time 7.25338
+VCDClient No.0 transmits packet No.32 to VCDClient No.1 at time 7.25883
+VCDClient No.0 all are transferred at time 7.26424
+VCDClient No.1 receive FINISH from VCDClient No.0 7.26551
+node 1 send ADVER at time 7.26951 msg size is 17
+VCDClient No.0 receive ADVER from VCDClient No.1 7.27057
+VCDClient No.2 receive ADVER from VCDClient No.1 7.27057
+VCDClient No.2 send CTS for VCDClient No.1 7.27057
+VCDClient No.1 receive CTS from VCDClient No.2 7.27148
+node 0 send ADVER at time 7.39824 msg size is 17
+VCDClient No.1 transmits packet No.0 to VCDClient No.2 at time 7.56951
+VCDClient No.1 transmits packet No.1 to VCDClient No.2 at time 7.57503
+VCDClient No.1 transmits packet No.2 to VCDClient No.2 at time 7.58054
+VCDClient No.1 transmits packet No.3 to VCDClient No.2 at time 7.58603
+VCDClient No.1 transmits packet No.4 to VCDClient No.2 at time 7.59162
+VCDClient No.1 transmits packet No.5 to VCDClient No.2 at time 7.59696
+VCDClient No.1 transmits packet No.6 to VCDClient No.2 at time 7.60277
+VCDClient No.1 transmits packet No.7 to VCDClient No.2 at time 7.60832
+VCDClient No.1 transmits packet No.8 to VCDClient No.2 at time 7.61402
+VCDClient No.1 transmits packet No.9 to VCDClient No.2 at time 7.61967
+VCDClient No.1 transmits packet No.10 to VCDClient No.2 at time 7.62502
+VCDClient No.1 transmits packet No.11 to VCDClient No.2 at time 7.63033
+VCDClient No.1 transmits packet No.12 to VCDClient No.2 at time 7.63607
+VCDClient No.1 transmits packet No.13 to VCDClient No.2 at time 7.6413
+VCDClient No.1 transmits packet No.14 to VCDClient No.2 at time 7.64663
+VCDClient No.1 transmits packet No.15 to VCDClient No.2 at time 7.65199
+VCDClient No.1 transmits packet No.16 to VCDClient No.2 at time 7.65776
+VCDClient No.1 transmits packet No.17 to VCDClient No.2 at time 7.66341
+VCDClient No.1 transmits packet No.18 to VCDClient No.2 at time 7.6688
+VCDClient No.1 transmits packet No.19 to VCDClient No.2 at time 7.67456
+VCDClient No.1 transmits packet No.20 to VCDClient No.2 at time 7.67977
+VCDClient No.1 transmits packet No.21 to VCDClient No.2 at time 7.68554
+VCDClient No.1 transmits packet No.22 to VCDClient No.2 at time 7.69116
+VCDClient No.1 transmits packet No.23 to VCDClient No.2 at time 7.69673
+VCDClient No.1 transmits packet No.24 to VCDClient No.2 at time 7.7025
+VCDClient No.1 transmits packet No.25 to VCDClient No.2 at time 7.70801
+VCDClient No.1 transmits packet No.26 to VCDClient No.2 at time 7.71383
+VCDClient No.1 transmits packet No.27 to VCDClient No.2 at time 7.71912
+VCDClient No.1 transmits packet No.28 to VCDClient No.2 at time 7.72479
+VCDClient No.1 transmits packet No.29 to VCDClient No.2 at time 7.73027
+VCDClient No.1 transmits packet No.30 to VCDClient No.2 at time 7.736
+node 0 send ADVER at time 7.73971 msg size is 17
+VCDClient No.1 transmits packet No.31 to VCDClient No.2 at time 7.74137
+VCDClient No.1 transmits packet No.32 to VCDClient No.2 at time 7.74778
+VCDClient No.1 all are transferred at time 7.75317
+VCDClient No.2 receive FINISH from VCDClient No.1 7.75448
+node 2 send ADVER at time 7.80248 msg size is 17
+VCDClient No.1 receive ADVER from VCDClient No.2 7.80372
+node 1 send ADVER at time 7.83317 msg size is 17
+VCDClient No.0 receive ADVER from VCDClient No.1 at state CTS_WAIT_PHASE  7.83435
+VCDClient No.2 receive ADVER from VCDClient No.1 at state CTS_WAIT_PHASE  7.83435
+--------------- VCDServer ---------------- 
+the server has transfered 171 packets.
+
+--------------- VCDClient node 0 stops ------- 
+state is 5
+the node has received 172 packets.
+
+--------------- VCDClient node 1 stops ------- 
+state is 5
+the node has received 172 packets.
+
+--------------- VCDClient node 2 stops ------- 
+state is 5
+the node has received 172 packets.
+
+NS EXITING...
